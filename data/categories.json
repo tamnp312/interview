@@ -1,0 +1,6723 @@
+[
+  {
+    "name": "React",
+    "slug": "react",
+    "count": 226,
+    "subcategories": [
+      {
+        "name": "React Thực Chiến",
+        "count": 14
+      },
+      {
+        "name": "Advanced Hooks",
+        "count": 13
+      },
+      {
+        "name": "useState & useEffect",
+        "count": 12
+      },
+      {
+        "name": "Performance & Patterns",
+        "count": 12
+      },
+      {
+        "name": "Debug & Scenario",
+        "count": 12
+      },
+      {
+        "name": "Components",
+        "count": 11
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 10
+      },
+      {
+        "name": "Props & State",
+        "count": 10
+      },
+      {
+        "name": "Context & Router",
+        "count": 10
+      },
+      {
+        "name": "Forms & Error",
+        "count": 10
+      },
+      {
+        "name": "Lifecycle",
+        "count": 7
+      },
+      {
+        "name": "Custom Hooks",
+        "count": 7
+      },
+      {
+        "name": "React",
+        "count": 5
+      },
+      {
+        "name": "Hooks & State",
+        "count": 3
+      },
+      {
+        "name": "React Hooks",
+        "count": 3
+      },
+      {
+        "name": "React Core",
+        "count": 3
+      },
+      {
+        "name": "Performance",
+        "count": 2
+      },
+      {
+        "name": "Architecture",
+        "count": 2
+      },
+      {
+        "name": "TypeScript",
+        "count": 2
+      },
+      {
+        "name": "React Compiler",
+        "count": 2
+      },
+      {
+        "name": "Context & State",
+        "count": 2
+      },
+      {
+        "name": "Data Fetching",
+        "count": 2
+      },
+      {
+        "name": "Memoization",
+        "count": 2
+      },
+      {
+        "name": "UI States",
+        "count": 2
+      },
+      {
+        "name": "Dependencies",
+        "count": 2
+      },
+      {
+        "name": "Rendering",
+        "count": 2
+      },
+      {
+        "name": "Batching",
+        "count": 2
+      },
+      {
+        "name": "Suspense",
+        "count": 2
+      },
+      {
+        "name": "Actions",
+        "count": 2
+      },
+      {
+        "name": "Transitions",
+        "count": 2
+      },
+      {
+        "name": "Optimistic UI",
+        "count": 2
+      },
+      {
+        "name": "Patterns",
+        "count": 1
+      },
+      {
+        "name": "Accessibility (a11y)",
+        "count": 1
+      },
+      {
+        "name": "State management",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Error handling",
+        "count": 1
+      },
+      {
+        "name": "Concurrent React",
+        "count": 1
+      },
+      {
+        "name": "Suspense & Lazy",
+        "count": 1
+      },
+      {
+        "name": "Error Boundaries",
+        "count": 1
+      },
+      {
+        "name": "Rendering & SSR",
+        "count": 1
+      },
+      {
+        "name": "Data & Lists",
+        "count": 1
+      },
+      {
+        "name": "Auth & Routing",
+        "count": 1
+      },
+      {
+        "name": "Async & Data",
+        "count": 1
+      },
+      {
+        "name": "Forms",
+        "count": 1
+      },
+      {
+        "name": "State & Render",
+        "count": 1
+      },
+      {
+        "name": "Hooks",
+        "count": 1
+      },
+      {
+        "name": "Refs vs State",
+        "count": 1
+      },
+      {
+        "name": "useId",
+        "count": 1
+      },
+      {
+        "name": "Stale Closure",
+        "count": 1
+      },
+      {
+        "name": "Cleanup",
+        "count": 1
+      },
+      {
+        "name": "Effect vs Handler",
+        "count": 1
+      },
+      {
+        "name": "useReducer",
+        "count": 1
+      },
+      {
+        "name": "StrictMode",
+        "count": 1
+      },
+      {
+        "name": "useLayoutEffect",
+        "count": 1
+      },
+      {
+        "name": "External Store",
+        "count": 1
+      },
+      {
+        "name": "Effect Timing",
+        "count": 1
+      },
+      {
+        "name": "Rules of Hooks",
+        "count": 1
+      },
+      {
+        "name": "Refs & Imperative API",
+        "count": 1
+      },
+      {
+        "name": "Keys",
+        "count": 1
+      },
+      {
+        "name": "Props",
+        "count": 1
+      },
+      {
+        "name": "Composition",
+        "count": 1
+      },
+      {
+        "name": "Context",
+        "count": 1
+      },
+      {
+        "name": "State Updates",
+        "count": 1
+      },
+      {
+        "name": "Concurrent",
+        "count": 1
+      },
+      {
+        "name": "Document Metadata",
+        "count": 1
+      },
+      {
+        "name": "Derived State",
+        "count": 1
+      },
+      {
+        "name": "use()",
+        "count": 1
+      },
+      {
+        "name": "Error Boundary",
+        "count": 1
+      },
+      {
+        "name": "Hydration",
+        "count": 1
+      },
+      {
+        "name": "SSR",
+        "count": 1
+      },
+      {
+        "name": "Streaming SSR",
+        "count": 1
+      },
+      {
+        "name": "Refs",
+        "count": 1
+      },
+      {
+        "name": "Data fetching",
+        "count": 1
+      },
+      {
+        "name": "Streaming",
+        "count": 1
+      },
+      {
+        "name": "Cache",
+        "count": 1
+      },
+      {
+        "name": "Defaults",
+        "count": 1
+      },
+      {
+        "name": "Optimistic update",
+        "count": 1
+      },
+      {
+        "name": "Infinite query",
+        "count": 1
+      },
+      {
+        "name": "Authorization",
+        "count": 1
+      },
+      {
+        "name": "Scroll Restoration",
+        "count": 1
+      },
+      {
+        "name": "Dynamic Form",
+        "count": 1
+      },
+      {
+        "name": "Multi-step Form",
+        "count": 1
+      },
+      {
+        "name": "Search UX",
+        "count": 1
+      },
+      {
+        "name": "i18n",
+        "count": 1
+      },
+      {
+        "name": "Data Table",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "count": 199,
+    "subcategories": [
+      {
+        "name": "Coding Challenge",
+        "count": 19
+      },
+      {
+        "name": "ES6+",
+        "count": 16
+      },
+      {
+        "name": "Promise & Async",
+        "count": 14
+      },
+      {
+        "name": "DOM & APIs",
+        "count": 14
+      },
+      {
+        "name": "Functions",
+        "count": 11
+      },
+      {
+        "name": "JavaScript cốt lõi",
+        "count": 11
+      },
+      {
+        "name": "JS Core",
+        "count": 9
+      },
+      {
+        "name": "Hoisting & Closure",
+        "count": 8
+      },
+      {
+        "name": "Kiểu Dữ Liệu & Biến",
+        "count": 7
+      },
+      {
+        "name": "this & Binding",
+        "count": 6
+      },
+      {
+        "name": "Prototype",
+        "count": 6
+      },
+      {
+        "name": "Browser & Network",
+        "count": 6
+      },
+      {
+        "name": "Trình duyệt & Nền tảng",
+        "count": 3
+      },
+      {
+        "name": "Async & Data",
+        "count": 3
+      },
+      {
+        "name": "Rendering",
+        "count": 2
+      },
+      {
+        "name": "Cookies",
+        "count": 2
+      },
+      {
+        "name": "Chuyên Sâu",
+        "count": 1
+      },
+      {
+        "name": "ES2024 / Promise",
+        "count": 1
+      },
+      {
+        "name": "ES2024 / Grouping",
+        "count": 1
+      },
+      {
+        "name": "ES2025 / Set",
+        "count": 1
+      },
+      {
+        "name": "ES2024 / Async",
+        "count": 1
+      },
+      {
+        "name": "Cloning / structuredClone",
+        "count": 1
+      },
+      {
+        "name": "Memory / WeakRef",
+        "count": 1
+      },
+      {
+        "name": "ES2025 / Iterator helpers",
+        "count": 1
+      },
+      {
+        "name": "ES2024 / RegExp",
+        "count": 1
+      },
+      {
+        "name": "Array methods",
+        "count": 1
+      },
+      {
+        "name": "Modules / Top-level await",
+        "count": 1
+      },
+      {
+        "name": "Modules",
+        "count": 1
+      },
+      {
+        "name": "Generators & Iterators",
+        "count": 1
+      },
+      {
+        "name": "Rendering & SSR",
+        "count": 1
+      },
+      {
+        "name": "HTTP",
+        "count": 1
+      },
+      {
+        "name": "Microtask",
+        "count": 1
+      },
+      {
+        "name": "Timers",
+        "count": 1
+      },
+      {
+        "name": "Observability",
+        "count": 1
+      },
+      {
+        "name": "nextTick",
+        "count": 1
+      },
+      {
+        "name": "Coercion",
+        "count": 1
+      },
+      {
+        "name": "Number",
+        "count": 1
+      },
+      {
+        "name": "Object vs Map",
+        "count": 1
+      },
+      {
+        "name": "Object",
+        "count": 1
+      },
+      {
+        "name": "Immutability",
+        "count": 1
+      },
+      {
+        "name": "Losing this",
+        "count": 1
+      },
+      {
+        "name": "Closure",
+        "count": 1
+      },
+      {
+        "name": "Operators",
+        "count": 1
+      },
+      {
+        "name": "Destructuring",
+        "count": 1
+      },
+      {
+        "name": "Hoisting & TDZ",
+        "count": 1
+      },
+      {
+        "name": "Object Copy",
+        "count": 1
+      },
+      {
+        "name": "call/apply/bind",
+        "count": 1
+      },
+      {
+        "name": "Prototype Chain",
+        "count": 1
+      },
+      {
+        "name": "Iterator Protocol",
+        "count": 1
+      },
+      {
+        "name": "Property Descriptor",
+        "count": 1
+      },
+      {
+        "name": "Memory Leak",
+        "count": 1
+      },
+      {
+        "name": "Output order",
+        "count": 1
+      },
+      {
+        "name": "async function",
+        "count": 1
+      },
+      {
+        "name": "Loops",
+        "count": 1
+      },
+      {
+        "name": "Error handling",
+        "count": 1
+      },
+      {
+        "name": "Combinators",
+        "count": 1
+      },
+      {
+        "name": "Cancellation",
+        "count": 1
+      },
+      {
+        "name": "Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Retry",
+        "count": 1
+      },
+      {
+        "name": "Race condition",
+        "count": 1
+      },
+      {
+        "name": "await semantics",
+        "count": 1
+      },
+      {
+        "name": "Debounce & throttle",
+        "count": 1
+      },
+      {
+        "name": "Unhandled rejection",
+        "count": 1
+      },
+      {
+        "name": "Concurrency limit",
+        "count": 1
+      },
+      {
+        "name": "Web Worker",
+        "count": 1
+      },
+      {
+        "name": "Async iterator",
+        "count": 1
+      },
+      {
+        "name": "Storage",
+        "count": 1
+      },
+      {
+        "name": "DOM Events",
+        "count": 1
+      },
+      {
+        "name": "Service Worker",
+        "count": 1
+      },
+      {
+        "name": "Caching",
+        "count": 1
+      },
+      {
+        "name": "IntersectionObserver",
+        "count": 1
+      },
+      {
+        "name": "Cross-tab",
+        "count": 1
+      },
+      {
+        "name": "Auth Flow",
+        "count": 1
+      },
+      {
+        "name": "File Upload",
+        "count": 1
+      },
+      {
+        "name": "Theming",
+        "count": 1
+      },
+      {
+        "name": "Formatting",
+        "count": 1
+      },
+      {
+        "name": "Offline & Retry",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "System Design",
+    "slug": "system-design",
+    "count": 199,
+    "subcategories": [
+      {
+        "name": "Interview Scenarios",
+        "count": 19
+      },
+      {
+        "name": "Scaling",
+        "count": 10
+      },
+      {
+        "name": "Fundamentals",
+        "count": 8
+      },
+      {
+        "name": "Architecture Patterns",
+        "count": 8
+      },
+      {
+        "name": "Data & Storage",
+        "count": 8
+      },
+      {
+        "name": "Resilience",
+        "count": 7
+      },
+      {
+        "name": "Architecture",
+        "count": 6
+      },
+      {
+        "name": "Reliability",
+        "count": 6
+      },
+      {
+        "name": "Messaging",
+        "count": 4
+      },
+      {
+        "name": "File Upload & Storage",
+        "count": 4
+      },
+      {
+        "name": "Case Study",
+        "count": 4
+      },
+      {
+        "name": "Observability",
+        "count": 3
+      },
+      {
+        "name": "Consistency",
+        "count": 3
+      },
+      {
+        "name": "Distributed Systems",
+        "count": 3
+      },
+      {
+        "name": "Caching",
+        "count": 3
+      },
+      {
+        "name": "Load Balancing",
+        "count": 3
+      },
+      {
+        "name": "Thanh toán",
+        "count": 3
+      },
+      {
+        "name": "Consistent Hashing",
+        "count": 2
+      },
+      {
+        "name": "Hot Partition",
+        "count": 2
+      },
+      {
+        "name": "Async Processing",
+        "count": 2
+      },
+      {
+        "name": "Distributed Transactions",
+        "count": 2
+      },
+      {
+        "name": "Data Modeling",
+        "count": 2
+      },
+      {
+        "name": "Performance",
+        "count": 2
+      },
+      {
+        "name": "Database Scaling",
+        "count": 2
+      },
+      {
+        "name": "Estimation",
+        "count": 2
+      },
+      {
+        "name": "Database",
+        "count": 2
+      },
+      {
+        "name": "Microservices",
+        "count": 2
+      },
+      {
+        "name": "Interview Process",
+        "count": 2
+      },
+      {
+        "name": "Requirements",
+        "count": 2
+      },
+      {
+        "name": "Latency",
+        "count": 2
+      },
+      {
+        "name": "Rate Limiting",
+        "count": 2
+      },
+      {
+        "name": "Idempotency",
+        "count": 1
+      },
+      {
+        "name": "Auth (OAuth2/OIDC/JWT)",
+        "count": 1
+      },
+      {
+        "name": "Multi-region",
+        "count": 1
+      },
+      {
+        "name": "Zero-downtime migration",
+        "count": 1
+      },
+      {
+        "name": "Capacity Estimation",
+        "count": 1
+      },
+      {
+        "name": "Bloom Filter",
+        "count": 1
+      },
+      {
+        "name": "News Feed / Twitter",
+        "count": 1
+      },
+      {
+        "name": "Webhooks",
+        "count": 1
+      },
+      {
+        "name": "Web Crawler",
+        "count": 1
+      },
+      {
+        "name": "Ride-matching / Uber",
+        "count": 1
+      },
+      {
+        "name": "Video Streaming",
+        "count": 1
+      },
+      {
+        "name": "Gateway",
+        "count": 1
+      },
+      {
+        "name": "Operations",
+        "count": 1
+      },
+      {
+        "name": "CQRS & Event Sourcing",
+        "count": 1
+      },
+      {
+        "name": "Messaging & Events",
+        "count": 1
+      },
+      {
+        "name": "CDN & Edge",
+        "count": 1
+      },
+      {
+        "name": "Realtime",
+        "count": 1
+      },
+      {
+        "name": "Payments",
+        "count": 1
+      },
+      {
+        "name": "Backend & API",
+        "count": 1
+      },
+      {
+        "name": "Inventory & Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Networking",
+        "count": 1
+      },
+      {
+        "name": "Scalability",
+        "count": 1
+      },
+      {
+        "name": "Real-time",
+        "count": 1
+      },
+      {
+        "name": "Storage",
+        "count": 1
+      },
+      {
+        "name": "Chống lạm dụng",
+        "count": 1
+      },
+      {
+        "name": "Audit log",
+        "count": 1
+      },
+      {
+        "name": "Upload",
+        "count": 1
+      },
+      {
+        "name": "Tìm kiếm",
+        "count": 1
+      },
+      {
+        "name": "Đếm & thống kê",
+        "count": 1
+      },
+      {
+        "name": "Đối soát",
+        "count": 1
+      },
+      {
+        "name": "Thời gian",
+        "count": 1
+      },
+      {
+        "name": "Phân quyền",
+        "count": 1
+      },
+      {
+        "name": "Đặt lịch",
+        "count": 1
+      },
+      {
+        "name": "Vòng đời dữ liệu",
+        "count": 1
+      },
+      {
+        "name": "Giữ chỗ",
+        "count": 1
+      },
+      {
+        "name": "API Design",
+        "count": 1
+      },
+      {
+        "name": "Isolation",
+        "count": 1
+      },
+      {
+        "name": "Tail Latency",
+        "count": 1
+      },
+      {
+        "name": "Replication",
+        "count": 1
+      },
+      {
+        "name": "Scale Strategy",
+        "count": 1
+      },
+      {
+        "name": "Sharding",
+        "count": 1
+      },
+      {
+        "name": "Queue",
+        "count": 1
+      },
+      {
+        "name": "Autoscaling",
+        "count": 1
+      },
+      {
+        "name": "URL Shortener",
+        "count": 1
+      },
+      {
+        "name": "Connection Pool",
+        "count": 1
+      },
+      {
+        "name": "Wallet & Ledger",
+        "count": 1
+      },
+      {
+        "name": "Read vs Write",
+        "count": 1
+      },
+      {
+        "name": "Flash Sale",
+        "count": 1
+      },
+      {
+        "name": "E-commerce",
+        "count": 1
+      },
+      {
+        "name": "Realtime Tracking",
+        "count": 1
+      },
+      {
+        "name": "Notifications",
+        "count": 1
+      },
+      {
+        "name": "Feed",
+        "count": 1
+      },
+      {
+        "name": "Media Pipeline",
+        "count": 1
+      },
+      {
+        "name": "Counters",
+        "count": 1
+      },
+      {
+        "name": "Booking",
+        "count": 1
+      },
+      {
+        "name": "Cart",
+        "count": 1
+      },
+      {
+        "name": "Recommendation",
+        "count": 1
+      },
+      {
+        "name": "Attendance",
+        "count": 1
+      },
+      {
+        "name": "Autocomplete",
+        "count": 1
+      },
+      {
+        "name": "Dữ liệu",
+        "count": 1
+      },
+      {
+        "name": "Khi nào tách",
+        "count": 1
+      },
+      {
+        "name": "Truy vấn",
+        "count": 1
+      },
+      {
+        "name": "Phân rã service",
+        "count": 1
+      },
+      {
+        "name": "Tracing",
+        "count": 1
+      },
+      {
+        "name": "Service discovery",
+        "count": 1
+      },
+      {
+        "name": "Chi phí vận hành",
+        "count": 1
+      },
+      {
+        "name": "Contract testing",
+        "count": 1
+      },
+      {
+        "name": "Migration",
+        "count": 1
+      },
+      {
+        "name": "Saga",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "AI Engineering",
+    "slug": "ai-engineering",
+    "count": 134,
+    "subcategories": [
+      {
+        "name": "RAG & Retrieval",
+        "count": 20
+      },
+      {
+        "name": "LLMOps & Infrastructure",
+        "count": 17
+      },
+      {
+        "name": "Prompt & Context",
+        "count": 11
+      },
+      {
+        "name": "AI Agents",
+        "count": 11
+      },
+      {
+        "name": "Applied AI",
+        "count": 11
+      },
+      {
+        "name": "LLM Fundamentals",
+        "count": 10
+      },
+      {
+        "name": "Fine-Tuning & Training",
+        "count": 9
+      },
+      {
+        "name": "Evaluation & Safety",
+        "count": 9
+      },
+      {
+        "name": "AI Behavioral",
+        "count": 4
+      },
+      {
+        "name": "Reliability",
+        "count": 3
+      },
+      {
+        "name": "Tool Calling",
+        "count": 2
+      },
+      {
+        "name": "Streaming",
+        "count": 2
+      },
+      {
+        "name": "Indexing",
+        "count": 1
+      },
+      {
+        "name": "Retrieval",
+        "count": 1
+      },
+      {
+        "name": "Reranking",
+        "count": 1
+      },
+      {
+        "name": "Hybrid Search",
+        "count": 1
+      },
+      {
+        "name": "Chunking",
+        "count": 1
+      },
+      {
+        "name": "Context Assembly",
+        "count": 1
+      },
+      {
+        "name": "Metadata",
+        "count": 1
+      },
+      {
+        "name": "Embeddings",
+        "count": 1
+      },
+      {
+        "name": "Memory",
+        "count": 1
+      },
+      {
+        "name": "Safety",
+        "count": 1
+      },
+      {
+        "name": "Structured Output",
+        "count": 1
+      },
+      {
+        "name": "LLM-as-Judge",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "UX",
+        "count": 1
+      },
+      {
+        "name": "App Architecture",
+        "count": 1
+      },
+      {
+        "name": "Product Decisions",
+        "count": 1
+      },
+      {
+        "name": "Rate Limiting",
+        "count": 1
+      },
+      {
+        "name": "Cost",
+        "count": 1
+      },
+      {
+        "name": "Abuse Prevention",
+        "count": 1
+      },
+      {
+        "name": "Data Privacy",
+        "count": 1
+      },
+      {
+        "name": "Prompt Management",
+        "count": 1
+      },
+      {
+        "name": "Conversation State",
+        "count": 1
+      },
+      {
+        "name": "Experimentation",
+        "count": 1
+      },
+      {
+        "name": "Next.js",
+        "count": 1
+      },
+      {
+        "name": "Observability",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "CSS",
+    "slug": "css",
+    "count": 132,
+    "subcategories": [
+      {
+        "name": "Advanced",
+        "count": 15
+      },
+      {
+        "name": "CSS & Layout",
+        "count": 13
+      },
+      {
+        "name": "Responsive",
+        "count": 10
+      },
+      {
+        "name": "Performance",
+        "count": 9
+      },
+      {
+        "name": "Grid",
+        "count": 8
+      },
+      {
+        "name": "Architecture",
+        "count": 8
+      },
+      {
+        "name": "Modern CSS",
+        "count": 7
+      },
+      {
+        "name": "Flexbox",
+        "count": 6
+      },
+      {
+        "name": "CSS Layout",
+        "count": 5
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 4
+      },
+      {
+        "name": "Selectors",
+        "count": 4
+      },
+      {
+        "name": "Box Model",
+        "count": 4
+      },
+      {
+        "name": "Display & Position",
+        "count": 4
+      },
+      {
+        "name": "Animations",
+        "count": 4
+      },
+      {
+        "name": "Cascade",
+        "count": 2
+      },
+      {
+        "name": "Accessibility",
+        "count": 1
+      },
+      {
+        "name": "CSS Reset",
+        "count": 1
+      },
+      {
+        "name": "Flex shorthand",
+        "count": 1
+      },
+      {
+        "name": "Responsive grid",
+        "count": 1
+      },
+      {
+        "name": "Track sizing",
+        "count": 1
+      },
+      {
+        "name": "Template areas",
+        "count": 1
+      },
+      {
+        "name": "Spacing",
+        "count": 1
+      },
+      {
+        "name": "Sticky",
+        "count": 1
+      },
+      {
+        "name": "Alignment",
+        "count": 1
+      },
+      {
+        "name": "Sizing gotcha",
+        "count": 1
+      },
+      {
+        "name": "Flex vs Grid",
+        "count": 1
+      },
+      {
+        "name": "Margin collapse",
+        "count": 1
+      },
+      {
+        "name": "aspect-ratio",
+        "count": 1
+      },
+      {
+        "name": "Stacking context",
+        "count": 1
+      },
+      {
+        "name": "Viewport units",
+        "count": 1
+      },
+      {
+        "name": "Scroll container",
+        "count": 1
+      },
+      {
+        "name": "Container queries",
+        "count": 1
+      },
+      {
+        "name": "Layout shift",
+        "count": 1
+      },
+      {
+        "name": "Feature query",
+        "count": 1
+      },
+      {
+        "name": "Custom properties",
+        "count": 1
+      },
+      {
+        "name": "Theming",
+        "count": 1
+      },
+      {
+        "name": "Logical properties",
+        "count": 1
+      },
+      {
+        "name": ":is / :where",
+        "count": 1
+      },
+      {
+        "name": "Cascade layers",
+        "count": 1
+      },
+      {
+        "name": "Typography",
+        "count": 1
+      },
+      {
+        "name": ":has",
+        "count": 1
+      },
+      {
+        "name": "will-change",
+        "count": 1
+      },
+      {
+        "name": "Rendering perf",
+        "count": 1
+      },
+      {
+        "name": "Maintenance",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Java",
+    "slug": "java",
+    "count": 121,
+    "subcategories": [
+      {
+        "name": "Nhập Môn",
+        "count": 27
+      },
+      {
+        "name": "OOP & Design",
+        "count": 16
+      },
+      {
+        "name": "Collections",
+        "count": 14
+      },
+      {
+        "name": "Concurrency",
+        "count": 12
+      },
+      {
+        "name": "JVM & Memory",
+        "count": 11
+      },
+      {
+        "name": "Thread",
+        "count": 4
+      },
+      {
+        "name": "OOP",
+        "count": 2
+      },
+      {
+        "name": "Generics",
+        "count": 2
+      },
+      {
+        "name": "HashMap",
+        "count": 2
+      },
+      {
+        "name": "Stream API",
+        "count": 2
+      },
+      {
+        "name": "Locking",
+        "count": 2
+      },
+      {
+        "name": "Thread Pool",
+        "count": 2
+      },
+      {
+        "name": "Wrapper & Autoboxing",
+        "count": 1
+      },
+      {
+        "name": "JVM",
+        "count": 1
+      },
+      {
+        "name": "Toán Tử Bit",
+        "count": 1
+      },
+      {
+        "name": "Serialization",
+        "count": 1
+      },
+      {
+        "name": "Object & Clone",
+        "count": 1
+      },
+      {
+        "name": "Interface",
+        "count": 1
+      },
+      {
+        "name": "Autoboxing",
+        "count": 1
+      },
+      {
+        "name": "Iterator",
+        "count": 1
+      },
+      {
+        "name": "List",
+        "count": 1
+      },
+      {
+        "name": "Numbers",
+        "count": 1
+      },
+      {
+        "name": "Exceptions",
+        "count": 1
+      },
+      {
+        "name": "String",
+        "count": 1
+      },
+      {
+        "name": "Sorting",
+        "count": 1
+      },
+      {
+        "name": "Optional",
+        "count": 1
+      },
+      {
+        "name": "equals & hashCode",
+        "count": 1
+      },
+      {
+        "name": "String pool",
+        "count": 1
+      },
+      {
+        "name": "LinkedHashMap",
+        "count": 1
+      },
+      {
+        "name": "Garbage Collection",
+        "count": 1
+      },
+      {
+        "name": "CompletableFuture",
+        "count": 1
+      },
+      {
+        "name": "Java Memory Model",
+        "count": 1
+      },
+      {
+        "name": "Memory",
+        "count": 1
+      },
+      {
+        "name": "Concurrent Collections",
+        "count": 1
+      },
+      {
+        "name": "ThreadLocal",
+        "count": 1
+      },
+      {
+        "name": "Virtual Threads",
+        "count": 1
+      },
+      {
+        "name": "Atomic & CAS",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Database",
+    "slug": "database",
+    "count": 120,
+    "subcategories": [
+      {
+        "name": "ORM",
+        "count": 8
+      },
+      {
+        "name": "SQL Basics",
+        "count": 8
+      },
+      {
+        "name": "Distributed Systems",
+        "count": 5
+      },
+      {
+        "name": "Query Optimization",
+        "count": 4
+      },
+      {
+        "name": "Indexing",
+        "count": 4
+      },
+      {
+        "name": "Joins",
+        "count": 4
+      },
+      {
+        "name": "Locking",
+        "count": 4
+      },
+      {
+        "name": "Data Modeling",
+        "count": 4
+      },
+      {
+        "name": "Transaction",
+        "count": 4
+      },
+      {
+        "name": "Database Design",
+        "count": 3
+      },
+      {
+        "name": "Database",
+        "count": 3
+      },
+      {
+        "name": "Concurrency",
+        "count": 3
+      },
+      {
+        "name": "Replication",
+        "count": 3
+      },
+      {
+        "name": "SQL vs NoSQL",
+        "count": 3
+      },
+      {
+        "name": "Sargable Predicate",
+        "count": 3
+      },
+      {
+        "name": "Index Design",
+        "count": 3
+      },
+      {
+        "name": "SQL Nhập Môn",
+        "count": 2
+      },
+      {
+        "name": "NoSQL",
+        "count": 2
+      },
+      {
+        "name": "Schema Design",
+        "count": 2
+      },
+      {
+        "name": "Transactions",
+        "count": 2
+      },
+      {
+        "name": "Migrations",
+        "count": 2
+      },
+      {
+        "name": "Sharding",
+        "count": 2
+      },
+      {
+        "name": "Keys & Constraints",
+        "count": 2
+      },
+      {
+        "name": "Normalization",
+        "count": 2
+      },
+      {
+        "name": "OLTP vs OLAP",
+        "count": 2
+      },
+      {
+        "name": "DBMS",
+        "count": 2
+      },
+      {
+        "name": "SQL",
+        "count": 2
+      },
+      {
+        "name": "Chuẩn hóa",
+        "count": 2
+      },
+      {
+        "name": "Window Functions",
+        "count": 2
+      },
+      {
+        "name": "Isolation",
+        "count": 2
+      },
+      {
+        "name": "Connection Pooling",
+        "count": 1
+      },
+      {
+        "name": "Data Structures",
+        "count": 1
+      },
+      {
+        "name": "Relational Model",
+        "count": 1
+      },
+      {
+        "name": "Isolation Levels",
+        "count": 1
+      },
+      {
+        "name": "Connections",
+        "count": 1
+      },
+      {
+        "name": "Caching",
+        "count": 1
+      },
+      {
+        "name": "Redis",
+        "count": 1
+      },
+      {
+        "name": "Stored Procedures",
+        "count": 1
+      },
+      {
+        "name": "Storage Engines",
+        "count": 1
+      },
+      {
+        "name": "Operations",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Index",
+        "count": 1
+      },
+      {
+        "name": "Query Semantics",
+        "count": 1
+      },
+      {
+        "name": "NULL Handling",
+        "count": 1
+      },
+      {
+        "name": "Grouping",
+        "count": 1
+      },
+      {
+        "name": "Selectivity",
+        "count": 1
+      },
+      {
+        "name": "Index Cost",
+        "count": 1
+      },
+      {
+        "name": "NULL & Index",
+        "count": 1
+      },
+      {
+        "name": "Reliability",
+        "count": 1
+      },
+      {
+        "name": "Distributed",
+        "count": 1
+      },
+      {
+        "name": "Read replica",
+        "count": 1
+      },
+      {
+        "name": "Time-series",
+        "count": 1
+      },
+      {
+        "name": "Datastore choice",
+        "count": 1
+      },
+      {
+        "name": "Postgres as cache/queue",
+        "count": 1
+      },
+      {
+        "name": "Search sync",
+        "count": 1
+      },
+      {
+        "name": "Full-text search",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Spring Boot",
+    "slug": "spring-spring-boot",
+    "count": 117,
+    "subcategories": [
+      {
+        "name": "Core & Annotations",
+        "count": 18
+      },
+      {
+        "name": "Data & Databases",
+        "count": 16
+      },
+      {
+        "name": "Spring Web MVC",
+        "count": 10
+      },
+      {
+        "name": "Security",
+        "count": 8
+      },
+      {
+        "name": "DI & IoC",
+        "count": 7
+      },
+      {
+        "name": "Cloud & Microservices",
+        "count": 7
+      },
+      {
+        "name": "Configuration",
+        "count": 6
+      },
+      {
+        "name": "Testing",
+        "count": 5
+      },
+      {
+        "name": "Actuator & Monitoring",
+        "count": 4
+      },
+      {
+        "name": "Transactions",
+        "count": 4
+      },
+      {
+        "name": "Exception & Validation",
+        "count": 3
+      },
+      {
+        "name": "JPA Fetching",
+        "count": 3
+      },
+      {
+        "name": "Auto-configuration",
+        "count": 1
+      },
+      {
+        "name": "Component Scan",
+        "count": 1
+      },
+      {
+        "name": "Startup",
+        "count": 1
+      },
+      {
+        "name": "Operations",
+        "count": 1
+      },
+      {
+        "name": "Java Config",
+        "count": 1
+      },
+      {
+        "name": "Bean Scope",
+        "count": 1
+      },
+      {
+        "name": "AOP",
+        "count": 1
+      },
+      {
+        "name": "Validation",
+        "count": 1
+      },
+      {
+        "name": "Dependency Injection",
+        "count": 1
+      },
+      {
+        "name": "Profiles",
+        "count": 1
+      },
+      {
+        "name": "Error Handling",
+        "count": 1
+      },
+      {
+        "name": "Actuator",
+        "count": 1
+      },
+      {
+        "name": "Spring Data JPA",
+        "count": 1
+      },
+      {
+        "name": "Bean Lifecycle",
+        "count": 1
+      },
+      {
+        "name": "Password",
+        "count": 1
+      },
+      {
+        "name": "Security Config",
+        "count": 1
+      },
+      {
+        "name": "Persistence Context",
+        "count": 1
+      },
+      {
+        "name": "Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Mapping",
+        "count": 1
+      },
+      {
+        "name": "Authentication",
+        "count": 1
+      },
+      {
+        "name": "CORS",
+        "count": 1
+      },
+      {
+        "name": "Entity Design",
+        "count": 1
+      },
+      {
+        "name": "Pagination",
+        "count": 1
+      },
+      {
+        "name": "Performance",
+        "count": 1
+      },
+      {
+        "name": "Connection Pool",
+        "count": 1
+      },
+      {
+        "name": "JWT",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Security",
+    "slug": "security",
+    "count": 113,
+    "subcategories": [
+      {
+        "name": "Authentication & Sessions",
+        "count": 8
+      },
+      {
+        "name": "Auth & Token",
+        "count": 7
+      },
+      {
+        "name": "Auth & Tokens",
+        "count": 7
+      },
+      {
+        "name": "Threats & Vulnerabilities",
+        "count": 6
+      },
+      {
+        "name": "Headers & Transport",
+        "count": 4
+      },
+      {
+        "name": "Hardening & Operations",
+        "count": 4
+      },
+      {
+        "name": "Web Security",
+        "count": 4
+      },
+      {
+        "name": "Auth & Security",
+        "count": 4
+      },
+      {
+        "name": "Authorization",
+        "count": 4
+      },
+      {
+        "name": "Cryptography",
+        "count": 4
+      },
+      {
+        "name": "Password Storage",
+        "count": 3
+      },
+      {
+        "name": "Browser & Network",
+        "count": 2
+      },
+      {
+        "name": "CORS",
+        "count": 2
+      },
+      {
+        "name": "OAuth2",
+        "count": 2
+      },
+      {
+        "name": "Session",
+        "count": 2
+      },
+      {
+        "name": "Rate Limiting",
+        "count": 2
+      },
+      {
+        "name": "Secrets",
+        "count": 2
+      },
+      {
+        "name": "Supply Chain",
+        "count": 2
+      },
+      {
+        "name": "OWASP",
+        "count": 1
+      },
+      {
+        "name": "TLS",
+        "count": 1
+      },
+      {
+        "name": "Input Validation",
+        "count": 1
+      },
+      {
+        "name": "Access Control",
+        "count": 1
+      },
+      {
+        "name": "File Upload & Storage",
+        "count": 1
+      },
+      {
+        "name": "PKCE",
+        "count": 1
+      },
+      {
+        "name": "Refresh Token",
+        "count": 1
+      },
+      {
+        "name": "OpenID Connect",
+        "count": 1
+      },
+      {
+        "name": "JWT",
+        "count": 1
+      },
+      {
+        "name": "BFF Pattern",
+        "count": 1
+      },
+      {
+        "name": "Cookie",
+        "count": 1
+      },
+      {
+        "name": "SSO",
+        "count": 1
+      },
+      {
+        "name": "Service Auth",
+        "count": 1
+      },
+      {
+        "name": "API Key",
+        "count": 1
+      },
+      {
+        "name": "OTP",
+        "count": 1
+      },
+      {
+        "name": "Password",
+        "count": 1
+      },
+      {
+        "name": "Sanitize",
+        "count": 1
+      },
+      {
+        "name": "Output Encoding",
+        "count": 1
+      },
+      {
+        "name": "XSS",
+        "count": 1
+      },
+      {
+        "name": "Open Redirect",
+        "count": 1
+      },
+      {
+        "name": "Nonce",
+        "count": 1
+      },
+      {
+        "name": "SSRF",
+        "count": 1
+      },
+      {
+        "name": "CSRF",
+        "count": 1
+      },
+      {
+        "name": "Bypass",
+        "count": 1
+      },
+      {
+        "name": "File Upload",
+        "count": 1
+      },
+      {
+        "name": "Path Traversal",
+        "count": 1
+      },
+      {
+        "name": "mXSS",
+        "count": 1
+      },
+      {
+        "name": "Third-party Scripts",
+        "count": 1
+      },
+      {
+        "name": "Prototype Pollution",
+        "count": 1
+      },
+      {
+        "name": "Information Disclosure",
+        "count": 1
+      },
+      {
+        "name": "Attacks",
+        "count": 1
+      },
+      {
+        "name": "Review Checklist",
+        "count": 1
+      },
+      {
+        "name": "Password Policy",
+        "count": 1
+      },
+      {
+        "name": "Migration",
+        "count": 1
+      },
+      {
+        "name": "User Enumeration",
+        "count": 1
+      },
+      {
+        "name": "MFA",
+        "count": 1
+      },
+      {
+        "name": "Password Reset",
+        "count": 1
+      },
+      {
+        "name": "Privilege Escalation",
+        "count": 1
+      },
+      {
+        "name": "Monitoring",
+        "count": 1
+      },
+      {
+        "name": "Logging",
+        "count": 1
+      },
+      {
+        "name": "Dependencies",
+        "count": 1
+      },
+      {
+        "name": "Privacy",
+        "count": 1
+      },
+      {
+        "name": "Threat Modeling",
+        "count": 1
+      },
+      {
+        "name": "Incident Response",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Career & Non-Tech",
+    "slug": "career-non-tech",
+    "count": 108,
+    "subcategories": [
+      {
+        "name": "Behavioral & Tình Huống",
+        "count": 18
+      },
+      {
+        "name": "Hành vi",
+        "count": 16
+      },
+      {
+        "name": "Culture Fit",
+        "count": 12
+      },
+      {
+        "name": "Lộ Trình Sự Nghiệp",
+        "count": 11
+      },
+      {
+        "name": "Soft Skills & Teamwork",
+        "count": 11
+      },
+      {
+        "name": "Lương & Đãi Ngộ",
+        "count": 11
+      },
+      {
+        "name": "Học Hỏi & Phát Triển",
+        "count": 4
+      },
+      {
+        "name": "CV & Hồ sơ",
+        "count": 2
+      },
+      {
+        "name": "Chuyển hướng",
+        "count": 2
+      },
+      {
+        "name": "Code Review",
+        "count": 2
+      },
+      {
+        "name": "Estimation",
+        "count": 2
+      },
+      {
+        "name": "Learning",
+        "count": 2
+      },
+      {
+        "name": "Loại hình công ty",
+        "count": 1
+      },
+      {
+        "name": "Thử việc",
+        "count": 1
+      },
+      {
+        "name": "Tiếng Anh",
+        "count": 1
+      },
+      {
+        "name": "Quyết định nghề nghiệp",
+        "count": 1
+      },
+      {
+        "name": "Remote & Nước ngoài",
+        "count": 1
+      },
+      {
+        "name": "Levels",
+        "count": 1
+      },
+      {
+        "name": "Onboarding",
+        "count": 1
+      },
+      {
+        "name": "Documentation",
+        "count": 1
+      },
+      {
+        "name": "Task Breakdown",
+        "count": 1
+      },
+      {
+        "name": "Tech Debt",
+        "count": 1
+      },
+      {
+        "name": "Seniority",
+        "count": 1
+      },
+      {
+        "name": "Promotion",
+        "count": 1
+      },
+      {
+        "name": "Technical Leadership",
+        "count": 1
+      },
+      {
+        "name": "Mentoring",
+        "count": 1
+      },
+      {
+        "name": "Performance Review",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Docker & Kubernetes",
+    "slug": "docker",
+    "count": 107,
+    "subcategories": [
+      {
+        "name": "Kubernetes",
+        "count": 24
+      },
+      {
+        "name": "Docker",
+        "count": 15
+      },
+      {
+        "name": "Images & Build",
+        "count": 8
+      },
+      {
+        "name": "Workloads & Networking",
+        "count": 8
+      },
+      {
+        "name": "Operations & Security",
+        "count": 8
+      },
+      {
+        "name": "Docker Core",
+        "count": 7
+      },
+      {
+        "name": "Compose & Networking",
+        "count": 3
+      },
+      {
+        "name": "Troubleshooting",
+        "count": 3
+      },
+      {
+        "name": "Resources",
+        "count": 3
+      },
+      {
+        "name": "Networking",
+        "count": 2
+      },
+      {
+        "name": "Probes",
+        "count": 2
+      },
+      {
+        "name": "Kubernetes Core",
+        "count": 1
+      },
+      {
+        "name": "Deployment",
+        "count": 1
+      },
+      {
+        "name": "IaC",
+        "count": 1
+      },
+      {
+        "name": "Build Cache",
+        "count": 1
+      },
+      {
+        "name": "Base Image",
+        "count": 1
+      },
+      {
+        "name": "Vận hành",
+        "count": 1
+      },
+      {
+        "name": "Signals & PID 1",
+        "count": 1
+      },
+      {
+        "name": "Dockerfile",
+        "count": 1
+      },
+      {
+        "name": "Image Size",
+        "count": 1
+      },
+      {
+        "name": "Secrets",
+        "count": 1
+      },
+      {
+        "name": "Volumes",
+        "count": 1
+      },
+      {
+        "name": "CI Build",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Multi-arch",
+        "count": 1
+      },
+      {
+        "name": "Layers",
+        "count": 1
+      },
+      {
+        "name": "Ingress",
+        "count": 1
+      },
+      {
+        "name": "Healthcheck",
+        "count": 1
+      },
+      {
+        "name": "Configuration",
+        "count": 1
+      },
+      {
+        "name": "Workloads",
+        "count": 1
+      },
+      {
+        "name": "Availability",
+        "count": 1
+      },
+      {
+        "name": "Autoscaling",
+        "count": 1
+      },
+      {
+        "name": "DNS",
+        "count": 1
+      },
+      {
+        "name": "Rollout",
+        "count": 1
+      },
+      {
+        "name": "StatefulSet",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "C#",
+    "slug": "csharp",
+    "count": 105,
+    "subcategories": [
+      {
+        "name": "Async & Threading",
+        "count": 13
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 10
+      },
+      {
+        "name": "Entity Framework",
+        "count": 10
+      },
+      {
+        "name": "Modern .NET",
+        "count": 10
+      },
+      {
+        "name": "OOP",
+        "count": 9
+      },
+      {
+        "name": "LINQ",
+        "count": 9
+      },
+      {
+        "name": "ASP.NET",
+        "count": 9
+      },
+      {
+        "name": "Migrations",
+        "count": 3
+      },
+      {
+        "name": "CLR & Types",
+        "count": 2
+      },
+      {
+        "name": "DbContext",
+        "count": 2
+      },
+      {
+        "name": "Querying",
+        "count": 2
+      },
+      {
+        "name": "Performance",
+        "count": 2
+      },
+      {
+        "name": "Events",
+        "count": 1
+      },
+      {
+        "name": "Resource Management",
+        "count": 1
+      },
+      {
+        "name": "Operators",
+        "count": 1
+      },
+      {
+        "name": "Reflection",
+        "count": 1
+      },
+      {
+        "name": "Delegates",
+        "count": 1
+      },
+      {
+        "name": "Types",
+        "count": 1
+      },
+      {
+        "name": "Parameters",
+        "count": 1
+      },
+      {
+        "name": "Middleware",
+        "count": 1
+      },
+      {
+        "name": "Background Jobs",
+        "count": 1
+      },
+      {
+        "name": "Configuration",
+        "count": 1
+      },
+      {
+        "name": "Nullable",
+        "count": 1
+      },
+      {
+        "name": "Dependency Injection",
+        "count": 1
+      },
+      {
+        "name": "Cancellation",
+        "count": 1
+      },
+      {
+        "name": "HttpClient",
+        "count": 1
+      },
+      {
+        "name": "Logging",
+        "count": 1
+      },
+      {
+        "name": "Exceptions",
+        "count": 1
+      },
+      {
+        "name": "Memory",
+        "count": 1
+      },
+      {
+        "name": "Validation",
+        "count": 1
+      },
+      {
+        "name": "Raw SQL",
+        "count": 1
+      },
+      {
+        "name": "Transactions",
+        "count": 1
+      },
+      {
+        "name": "Bulk Operations",
+        "count": 1
+      },
+      {
+        "name": "Error Handling",
+        "count": 1
+      },
+      {
+        "name": "API Design",
+        "count": 1
+      },
+      {
+        "name": "File Upload",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Golang",
+    "slug": "golang",
+    "count": 99,
+    "subcategories": [
+      {
+        "name": "Testing & Tooling",
+        "count": 14
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 12
+      },
+      {
+        "name": "Web & API",
+        "count": 10
+      },
+      {
+        "name": "Error Handling & Patterns",
+        "count": 8
+      },
+      {
+        "name": "Types & Interface",
+        "count": 8
+      },
+      {
+        "name": "Concurrency",
+        "count": 8
+      },
+      {
+        "name": "Fundamentals",
+        "count": 3
+      },
+      {
+        "name": "Channels",
+        "count": 3
+      },
+      {
+        "name": "Performance",
+        "count": 3
+      },
+      {
+        "name": "Context",
+        "count": 2
+      },
+      {
+        "name": "Goroutine Leak",
+        "count": 2
+      },
+      {
+        "name": "Mutex",
+        "count": 2
+      },
+      {
+        "name": "net/http",
+        "count": 2
+      },
+      {
+        "name": "Functions",
+        "count": 1
+      },
+      {
+        "name": "Constants",
+        "count": 1
+      },
+      {
+        "name": "Standard Library",
+        "count": 1
+      },
+      {
+        "name": "Slices",
+        "count": 1
+      },
+      {
+        "name": "Select",
+        "count": 1
+      },
+      {
+        "name": "Cancellation",
+        "count": 1
+      },
+      {
+        "name": "sync",
+        "count": 1
+      },
+      {
+        "name": "Worker Pool",
+        "count": 1
+      },
+      {
+        "name": "WaitGroup",
+        "count": 1
+      },
+      {
+        "name": "Memory Model",
+        "count": 1
+      },
+      {
+        "name": "Runtime",
+        "count": 1
+      },
+      {
+        "name": "Errors",
+        "count": 1
+      },
+      {
+        "name": "defer",
+        "count": 1
+      },
+      {
+        "name": "Struct",
+        "count": 1
+      },
+      {
+        "name": "Middleware",
+        "count": 1
+      },
+      {
+        "name": "Interface",
+        "count": 1
+      },
+      {
+        "name": "Map",
+        "count": 1
+      },
+      {
+        "name": "JSON",
+        "count": 1
+      },
+      {
+        "name": "Generics",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Benchmark",
+        "count": 1
+      },
+      {
+        "name": "Profiling",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Next.js",
+    "slug": "nextjs",
+    "count": 92,
+    "subcategories": [
+      {
+        "name": "App Router",
+        "count": 10
+      },
+      {
+        "name": "Rendering",
+        "count": 10
+      },
+      {
+        "name": "API & Server Actions",
+        "count": 10
+      },
+      {
+        "name": "Optimization",
+        "count": 10
+      },
+      {
+        "name": "Server/Client Components",
+        "count": 9
+      },
+      {
+        "name": "Migration",
+        "count": 2
+      },
+      {
+        "name": "Deployment / Vercel",
+        "count": 1
+      },
+      {
+        "name": "Docker",
+        "count": 1
+      },
+      {
+        "name": "Static Export",
+        "count": 1
+      },
+      {
+        "name": "Styling",
+        "count": 1
+      },
+      {
+        "name": "Self-hosting",
+        "count": 1
+      },
+      {
+        "name": "Testing / E2E",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Security / CSP",
+        "count": 1
+      },
+      {
+        "name": "Database / Serverless",
+        "count": 1
+      },
+      {
+        "name": "Security / Server Actions",
+        "count": 1
+      },
+      {
+        "name": "Pages Router",
+        "count": 1
+      },
+      {
+        "name": "Caching / Revalidation",
+        "count": 1
+      },
+      {
+        "name": "i18n / next-intl",
+        "count": 1
+      },
+      {
+        "name": "Forms / Hooks",
+        "count": 1
+      },
+      {
+        "name": "Draft Mode / Preview",
+        "count": 1
+      },
+      {
+        "name": "Data fetching",
+        "count": 1
+      },
+      {
+        "name": "Client boundary",
+        "count": 1
+      },
+      {
+        "name": "Serialization",
+        "count": 1
+      },
+      {
+        "name": "Layout vs template",
+        "count": 1
+      },
+      {
+        "name": "Request memoization",
+        "count": 1
+      },
+      {
+        "name": "Segment config",
+        "count": 1
+      },
+      {
+        "name": "Action vs handler",
+        "count": 1
+      },
+      {
+        "name": "Error handling",
+        "count": 1
+      },
+      {
+        "name": "ISR",
+        "count": 1
+      },
+      {
+        "name": "Data Cache",
+        "count": 1
+      },
+      {
+        "name": "Caching layers",
+        "count": 1
+      },
+      {
+        "name": "Middleware",
+        "count": 1
+      },
+      {
+        "name": "Intercepting routes",
+        "count": 1
+      },
+      {
+        "name": "Cookies & auth",
+        "count": 1
+      },
+      {
+        "name": "Environment",
+        "count": 1
+      },
+      {
+        "name": "Routing",
+        "count": 1
+      },
+      {
+        "name": "Images",
+        "count": 1
+      },
+      {
+        "name": "i18n",
+        "count": 1
+      },
+      {
+        "name": "Sitemap",
+        "count": 1
+      },
+      {
+        "name": "Code Splitting",
+        "count": 1
+      },
+      {
+        "name": "Deployment",
+        "count": 1
+      },
+      {
+        "name": "Runtime",
+        "count": 1
+      },
+      {
+        "name": "Metadata",
+        "count": 1
+      },
+      {
+        "name": "Hydration",
+        "count": 1
+      },
+      {
+        "name": "RSC Payload",
+        "count": 1
+      },
+      {
+        "name": "Build",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Flutter",
+    "slug": "flutter",
+    "count": 91,
+    "subcategories": [
+      {
+        "name": "Widget & UI",
+        "count": 17
+      },
+      {
+        "name": "Chuyên Sâu",
+        "count": 17
+      },
+      {
+        "name": "Dart Nhập Môn",
+        "count": 16
+      },
+      {
+        "name": "State Management",
+        "count": 15
+      },
+      {
+        "name": "Navigation & Routing",
+        "count": 8
+      },
+      {
+        "name": "Architecture",
+        "count": 8
+      },
+      {
+        "name": "Tooling",
+        "count": 2
+      },
+      {
+        "name": "Local Storage",
+        "count": 1
+      },
+      {
+        "name": "Responsive UI",
+        "count": 1
+      },
+      {
+        "name": "Deep Linking",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Fundamentals",
+        "count": 1
+      },
+      {
+        "name": "Lifecycle",
+        "count": 1
+      },
+      {
+        "name": "Monitoring",
+        "count": 1
+      },
+      {
+        "name": "Performance",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Node.js",
+    "slug": "nodejs",
+    "count": 89,
+    "subcategories": [
+      {
+        "name": "Security & Production",
+        "count": 12
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 11
+      },
+      {
+        "name": "Express",
+        "count": 10
+      },
+      {
+        "name": "Node.js Deep",
+        "count": 9
+      },
+      {
+        "name": "Async & Event Loop",
+        "count": 7
+      },
+      {
+        "name": "Performance & Caching",
+        "count": 6
+      },
+      {
+        "name": "Streams & I/O",
+        "count": 5
+      },
+      {
+        "name": "Error Handling",
+        "count": 4
+      },
+      {
+        "name": "Node.js Thực Tế",
+        "count": 3
+      },
+      {
+        "name": "Node.js Core",
+        "count": 3
+      },
+      {
+        "name": "Bảo mật",
+        "count": 2
+      },
+      {
+        "name": "Middleware",
+        "count": 2
+      },
+      {
+        "name": "Streams",
+        "count": 1
+      },
+      {
+        "name": "Buffer",
+        "count": 1
+      },
+      {
+        "name": "Modules",
+        "count": 1
+      },
+      {
+        "name": "EventEmitter",
+        "count": 1
+      },
+      {
+        "name": "libuv",
+        "count": 1
+      },
+      {
+        "name": "Pipeline",
+        "count": 1
+      },
+      {
+        "name": "AsyncLocalStorage",
+        "count": 1
+      },
+      {
+        "name": "Backpressure",
+        "count": 1
+      },
+      {
+        "name": "Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Shutdown",
+        "count": 1
+      },
+      {
+        "name": "Memory",
+        "count": 1
+      },
+      {
+        "name": "Worker Threads",
+        "count": 1
+      },
+      {
+        "name": "Body & Upload",
+        "count": 1
+      },
+      {
+        "name": "Routing",
+        "count": 1
+      },
+      {
+        "name": "File Upload",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "count": 88,
+    "subcategories": [
+      {
+        "name": "Operations",
+        "count": 10
+      },
+      {
+        "name": "Core SQL",
+        "count": 8
+      },
+      {
+        "name": "Indexing & Query Planning",
+        "count": 8
+      },
+      {
+        "name": "Transactions & Concurrency",
+        "count": 6
+      },
+      {
+        "name": "Schema & Constraints",
+        "count": 6
+      },
+      {
+        "name": "Locking",
+        "count": 5
+      },
+      {
+        "name": "Vacuum & Bloat",
+        "count": 4
+      },
+      {
+        "name": "JSONB & Advanced",
+        "count": 3
+      },
+      {
+        "name": "PostgreSQL Internals",
+        "count": 3
+      },
+      {
+        "name": "SQL Basics",
+        "count": 3
+      },
+      {
+        "name": "Replication",
+        "count": 3
+      },
+      {
+        "name": "Indexing",
+        "count": 2
+      },
+      {
+        "name": "Query Optimization",
+        "count": 2
+      },
+      {
+        "name": "Partitioning",
+        "count": 2
+      },
+      {
+        "name": "MVCC",
+        "count": 2
+      },
+      {
+        "name": "CTE",
+        "count": 2
+      },
+      {
+        "name": "Query Plan",
+        "count": 2
+      },
+      {
+        "name": "Maintenance",
+        "count": 2
+      },
+      {
+        "name": "Connections",
+        "count": 2
+      },
+      {
+        "name": "Transactions",
+        "count": 1
+      },
+      {
+        "name": "Isolation Levels",
+        "count": 1
+      },
+      {
+        "name": "Views",
+        "count": 1
+      },
+      {
+        "name": "Full-Text Search",
+        "count": 1
+      },
+      {
+        "name": "Reporting",
+        "count": 1
+      },
+      {
+        "name": "Query Patterns",
+        "count": 1
+      },
+      {
+        "name": "Bulk Updates",
+        "count": 1
+      },
+      {
+        "name": "Expression Index",
+        "count": 1
+      },
+      {
+        "name": "HOT Update",
+        "count": 1
+      },
+      {
+        "name": "Storage",
+        "count": 1
+      },
+      {
+        "name": "JSONB",
+        "count": 1
+      },
+      {
+        "name": "Monitoring",
+        "count": 1
+      },
+      {
+        "name": "Isolation",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Testing",
+    "slug": "testing",
+    "count": 85,
+    "subcategories": [
+      {
+        "name": "Frameworks",
+        "count": 12
+      },
+      {
+        "name": "Strategy & Practices",
+        "count": 7
+      },
+      {
+        "name": "Testing",
+        "count": 5
+      },
+      {
+        "name": "Loại & mức test",
+        "count": 4
+      },
+      {
+        "name": "Quản lý lỗi",
+        "count": 3
+      },
+      {
+        "name": "Kỹ thuật test",
+        "count": 3
+      },
+      {
+        "name": "Nền tảng QA",
+        "count": 3
+      },
+      {
+        "name": "RTL Queries",
+        "count": 2
+      },
+      {
+        "name": "Async UI",
+        "count": 2
+      },
+      {
+        "name": "Edge Cases",
+        "count": 1
+      },
+      {
+        "name": "Dry Run",
+        "count": 1
+      },
+      {
+        "name": "Common Bugs",
+        "count": 1
+      },
+      {
+        "name": "Test Design",
+        "count": 1
+      },
+      {
+        "name": "Chọn phạm vi test",
+        "count": 1
+      },
+      {
+        "name": "Bắt đầu viết test",
+        "count": 1
+      },
+      {
+        "name": "Test khi fix bug",
+        "count": 1
+      },
+      {
+        "name": "Ranh giới unit/integration",
+        "count": 1
+      },
+      {
+        "name": "Thời gian & ngẫu nhiên",
+        "count": 1
+      },
+      {
+        "name": "Đầu vào ngẫu nhiên",
+        "count": 1
+      },
+      {
+        "name": "Mock quá tay",
+        "count": 1
+      },
+      {
+        "name": "Dữ liệu test",
+        "count": 1
+      },
+      {
+        "name": "Flaky & CI",
+        "count": 1
+      },
+      {
+        "name": "Test chạy chậm",
+        "count": 1
+      },
+      {
+        "name": "TDD thực tế",
+        "count": 1
+      },
+      {
+        "name": "Refactor an toàn",
+        "count": 1
+      },
+      {
+        "name": "Forms",
+        "count": 1
+      },
+      {
+        "name": "user-event",
+        "count": 1
+      },
+      {
+        "name": "Custom Hooks",
+        "count": 1
+      },
+      {
+        "name": "MSW",
+        "count": 1
+      },
+      {
+        "name": "Providers",
+        "count": 1
+      },
+      {
+        "name": "Fake Timers",
+        "count": 1
+      },
+      {
+        "name": "Module Mocking",
+        "count": 1
+      },
+      {
+        "name": "Debugging Tests",
+        "count": 1
+      },
+      {
+        "name": "Flaky E2E",
+        "count": 1
+      },
+      {
+        "name": "Snapshot",
+        "count": 1
+      },
+      {
+        "name": "CI",
+        "count": 1
+      },
+      {
+        "name": "Tool Choice",
+        "count": 1
+      },
+      {
+        "name": "API Testing",
+        "count": 1
+      },
+      {
+        "name": "Process",
+        "count": 1
+      },
+      {
+        "name": "Test Isolation",
+        "count": 1
+      },
+      {
+        "name": "Bug Report",
+        "count": 1
+      },
+      {
+        "name": "Environments",
+        "count": 1
+      },
+      {
+        "name": "Release",
+        "count": 1
+      },
+      {
+        "name": "Test Data",
+        "count": 1
+      },
+      {
+        "name": "Queue & Jobs",
+        "count": 1
+      },
+      {
+        "name": "Contract Test",
+        "count": 1
+      },
+      {
+        "name": "External Services",
+        "count": 1
+      },
+      {
+        "name": "Integration Test",
+        "count": 1
+      },
+      {
+        "name": "Performance",
+        "count": 1
+      },
+      {
+        "name": "Migration",
+        "count": 1
+      },
+      {
+        "name": "Scheduled Jobs",
+        "count": 1
+      },
+      {
+        "name": "Triage",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "React Native",
+    "slug": "react-native",
+    "count": 85,
+    "subcategories": [
+      {
+        "name": "Core",
+        "count": 12
+      },
+      {
+        "name": "Components & UI",
+        "count": 10
+      },
+      {
+        "name": "Performance",
+        "count": 9
+      },
+      {
+        "name": "New Architecture",
+        "count": 8
+      },
+      {
+        "name": "Navigation",
+        "count": 6
+      },
+      {
+        "name": "State & Data",
+        "count": 6
+      },
+      {
+        "name": "Native Modules",
+        "count": 5
+      },
+      {
+        "name": "Animations",
+        "count": 5
+      },
+      {
+        "name": "Build & Tooling",
+        "count": 5
+      },
+      {
+        "name": "Platform & Misc",
+        "count": 5
+      },
+      {
+        "name": "Testing & Debug",
+        "count": 4
+      },
+      {
+        "name": "Lifecycle",
+        "count": 2
+      },
+      {
+        "name": "Networking",
+        "count": 2
+      },
+      {
+        "name": "React",
+        "count": 1
+      },
+      {
+        "name": "Offline",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Background",
+        "count": 1
+      },
+      {
+        "name": "Debugging",
+        "count": 1
+      },
+      {
+        "name": "WebView",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Django",
+    "slug": "django",
+    "count": 84,
+    "subcategories": [
+      {
+        "name": "Models & ORM",
+        "count": 11
+      },
+      {
+        "name": "DRF",
+        "count": 11
+      },
+      {
+        "name": "Views & URLs",
+        "count": 7
+      },
+      {
+        "name": "Performance & Security",
+        "count": 7
+      },
+      {
+        "name": "Core",
+        "count": 5
+      },
+      {
+        "name": "Deployment",
+        "count": 5
+      },
+      {
+        "name": "Templates & Forms",
+        "count": 4
+      },
+      {
+        "name": "Auth",
+        "count": 4
+      },
+      {
+        "name": "Middleware",
+        "count": 4
+      },
+      {
+        "name": "Signals & Tasks",
+        "count": 4
+      },
+      {
+        "name": "ORM",
+        "count": 3
+      },
+      {
+        "name": "Aggregation",
+        "count": 3
+      },
+      {
+        "name": "Models",
+        "count": 2
+      },
+      {
+        "name": "Templates",
+        "count": 2
+      },
+      {
+        "name": "Celery",
+        "count": 2
+      },
+      {
+        "name": "Migrations",
+        "count": 2
+      },
+      {
+        "name": "Admin",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Architecture",
+        "count": 1
+      },
+      {
+        "name": "QuerySet",
+        "count": 1
+      },
+      {
+        "name": "Caching",
+        "count": 1
+      },
+      {
+        "name": "Signals",
+        "count": 1
+      },
+      {
+        "name": "Transactions",
+        "count": 1
+      },
+      {
+        "name": "Managers",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Python",
+    "slug": "python",
+    "count": 83,
+    "subcategories": [
+      {
+        "name": "Core Language",
+        "count": 26
+      },
+      {
+        "name": "OOP",
+        "count": 13
+      },
+      {
+        "name": "FastAPI",
+        "count": 9
+      },
+      {
+        "name": "Database & Testing",
+        "count": 9
+      },
+      {
+        "name": "Concurrency",
+        "count": 7
+      },
+      {
+        "name": "Gotcha",
+        "count": 3
+      },
+      {
+        "name": "Asyncio",
+        "count": 3
+      },
+      {
+        "name": "Generator",
+        "count": 2
+      },
+      {
+        "name": "Standard Library",
+        "count": 1
+      },
+      {
+        "name": "Decorator",
+        "count": 1
+      },
+      {
+        "name": "Dunder",
+        "count": 1
+      },
+      {
+        "name": "Context Manager",
+        "count": 1
+      },
+      {
+        "name": "Data Model",
+        "count": 1
+      },
+      {
+        "name": "Closure",
+        "count": 1
+      },
+      {
+        "name": "GIL",
+        "count": 1
+      },
+      {
+        "name": "Typing",
+        "count": 1
+      },
+      {
+        "name": "Memory",
+        "count": 1
+      },
+      {
+        "name": "MRO",
+        "count": 1
+      },
+      {
+        "name": "Multiprocessing",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Android",
+    "slug": "android",
+    "count": 81,
+    "subcategories": [
+      {
+        "name": "Kotlin Nhập Môn",
+        "count": 13
+      },
+      {
+        "name": "Android Core",
+        "count": 13
+      },
+      {
+        "name": "Jetpack Compose",
+        "count": 13
+      },
+      {
+        "name": "Architecture",
+        "count": 11
+      },
+      {
+        "name": "Chuyên Sâu",
+        "count": 10
+      },
+      {
+        "name": "Data & Networking",
+        "count": 8
+      },
+      {
+        "name": "Deployment",
+        "count": 3
+      },
+      {
+        "name": "Performance",
+        "count": 2
+      },
+      {
+        "name": "Lifecycle",
+        "count": 1
+      },
+      {
+        "name": "Navigation",
+        "count": 1
+      },
+      {
+        "name": "Kotlin",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Networking",
+        "count": 1
+      },
+      {
+        "name": "Build & Tooling",
+        "count": 1
+      },
+      {
+        "name": "Kotlin Nâng Cao",
+        "count": 1
+      },
+      {
+        "name": "Android UI",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "TypeScript",
+    "slug": "typescript",
+    "count": 79,
+    "subcategories": [
+      {
+        "name": "Chuyên Sâu",
+        "count": 18
+      },
+      {
+        "name": "Types Nhập Môn",
+        "count": 13
+      },
+      {
+        "name": "Generics",
+        "count": 11
+      },
+      {
+        "name": "Utility Types",
+        "count": 10
+      },
+      {
+        "name": "Interface & Type",
+        "count": 9
+      },
+      {
+        "name": "Type vs Interface",
+        "count": 2
+      },
+      {
+        "name": "Types",
+        "count": 1
+      },
+      {
+        "name": "strictNullChecks",
+        "count": 1
+      },
+      {
+        "name": "API Typing",
+        "count": 1
+      },
+      {
+        "name": "Enum",
+        "count": 1
+      },
+      {
+        "name": "Discriminated Union",
+        "count": 1
+      },
+      {
+        "name": "Narrowing",
+        "count": 1
+      },
+      {
+        "name": "Constraints",
+        "count": 1
+      },
+      {
+        "name": "Inference",
+        "count": 1
+      },
+      {
+        "name": "Conditional Types",
+        "count": 1
+      },
+      {
+        "name": "Mapped Types",
+        "count": 1
+      },
+      {
+        "name": "Literal Widening",
+        "count": 1
+      },
+      {
+        "name": "satisfies",
+        "count": 1
+      },
+      {
+        "name": "Custom Utilities",
+        "count": 1
+      },
+      {
+        "name": "Template Literal Types",
+        "count": 1
+      },
+      {
+        "name": "Structural Typing",
+        "count": 1
+      },
+      {
+        "name": "Module Augmentation",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "HTML",
+    "slug": "html",
+    "count": 78,
+    "subcategories": [
+      {
+        "name": "Forms",
+        "count": 14
+      },
+      {
+        "name": "Accessibility",
+        "count": 12
+      },
+      {
+        "name": "Semantic",
+        "count": 10
+      },
+      {
+        "name": "WCAG",
+        "count": 9
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 7
+      },
+      {
+        "name": "HTML5",
+        "count": 7
+      },
+      {
+        "name": "Dialog",
+        "count": 2
+      },
+      {
+        "name": "Focus Management",
+        "count": 2
+      },
+      {
+        "name": "Scripts",
+        "count": 1
+      },
+      {
+        "name": "Web Storage",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Native Elements",
+        "count": 1
+      },
+      {
+        "name": "Labels",
+        "count": 1
+      },
+      {
+        "name": "ARIA",
+        "count": 1
+      },
+      {
+        "name": "Accessible Name",
+        "count": 1
+      },
+      {
+        "name": "Images",
+        "count": 1
+      },
+      {
+        "name": "Error Handling",
+        "count": 1
+      },
+      {
+        "name": "Live Regions",
+        "count": 1
+      },
+      {
+        "name": "Keyboard",
+        "count": 1
+      },
+      {
+        "name": "Motion",
+        "count": 1
+      },
+      {
+        "name": "ARIA Patterns",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Hiding Content",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "State Management",
+    "slug": "state-management",
+    "count": 75,
+    "subcategories": [
+      {
+        "name": "React Query",
+        "count": 30
+      },
+      {
+        "name": "Redux",
+        "count": 17
+      },
+      {
+        "name": "Zustand",
+        "count": 10
+      },
+      {
+        "name": "Jotai",
+        "count": 6
+      },
+      {
+        "name": "Phân loại state",
+        "count": 1
+      },
+      {
+        "name": "Context",
+        "count": 1
+      },
+      {
+        "name": "URL state",
+        "count": 1
+      },
+      {
+        "name": "Selector",
+        "count": 1
+      },
+      {
+        "name": "Chọn công cụ",
+        "count": 1
+      },
+      {
+        "name": "Store ngoài React",
+        "count": 1
+      },
+      {
+        "name": "Immer",
+        "count": 1
+      },
+      {
+        "name": "Cấu trúc state",
+        "count": 1
+      },
+      {
+        "name": "Persist",
+        "count": 1
+      },
+      {
+        "name": "Async",
+        "count": 1
+      },
+      {
+        "name": "Form state",
+        "count": 1
+      },
+      {
+        "name": "SSR",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Rails",
+    "slug": "rails",
+    "count": 71,
+    "subcategories": [
+      {
+        "name": "Active Record",
+        "count": 14
+      },
+      {
+        "name": "Testing & Job",
+        "count": 11
+      },
+      {
+        "name": "Controller & View",
+        "count": 10
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 7
+      },
+      {
+        "name": "MVC & Routing",
+        "count": 7
+      },
+      {
+        "name": "Migration & DB",
+        "count": 7
+      },
+      {
+        "name": "Query Interface",
+        "count": 3
+      },
+      {
+        "name": "Active Storage",
+        "count": 1
+      },
+      {
+        "name": "Associations",
+        "count": 1
+      },
+      {
+        "name": "Persistence",
+        "count": 1
+      },
+      {
+        "name": "Batch Processing",
+        "count": 1
+      },
+      {
+        "name": "Active Job",
+        "count": 1
+      },
+      {
+        "name": "Callbacks",
+        "count": 1
+      },
+      {
+        "name": "Caching",
+        "count": 1
+      },
+      {
+        "name": "Rack",
+        "count": 1
+      },
+      {
+        "name": "Eager Loading",
+        "count": 1
+      },
+      {
+        "name": "Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Architecture",
+        "count": 1
+      },
+      {
+        "name": "Migrations",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "CI/CD",
+    "slug": "cicd",
+    "count": 67,
+    "subcategories": [
+      {
+        "name": "DevOps & Tools",
+        "count": 7
+      },
+      {
+        "name": "Observability",
+        "count": 5
+      },
+      {
+        "name": "Practices",
+        "count": 4
+      },
+      {
+        "name": "IaC",
+        "count": 3
+      },
+      {
+        "name": "Logging",
+        "count": 3
+      },
+      {
+        "name": "Fundamentals",
+        "count": 2
+      },
+      {
+        "name": "Deployment Strategies",
+        "count": 2
+      },
+      {
+        "name": "Tools & Platforms",
+        "count": 2
+      },
+      {
+        "name": "Pipeline Design",
+        "count": 2
+      },
+      {
+        "name": "Secrets",
+        "count": 2
+      },
+      {
+        "name": "Alerting",
+        "count": 2
+      },
+      {
+        "name": "GitHub Actions",
+        "count": 1
+      },
+      {
+        "name": "Secrets & Security",
+        "count": 1
+      },
+      {
+        "name": "Build Artifacts",
+        "count": 1
+      },
+      {
+        "name": "Quality Gates",
+        "count": 1
+      },
+      {
+        "name": "Deployment",
+        "count": 1
+      },
+      {
+        "name": "Containers",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Culture",
+        "count": 1
+      },
+      {
+        "name": "Scaling",
+        "count": 1
+      },
+      {
+        "name": "SRE",
+        "count": 1
+      },
+      {
+        "name": "Image Scanning",
+        "count": 1
+      },
+      {
+        "name": "Caching",
+        "count": 1
+      },
+      {
+        "name": "Matrix build",
+        "count": 1
+      },
+      {
+        "name": "Pipeline design",
+        "count": 1
+      },
+      {
+        "name": "Test parallelism",
+        "count": 1
+      },
+      {
+        "name": "Artifacts",
+        "count": 1
+      },
+      {
+        "name": "Quality gate",
+        "count": 1
+      },
+      {
+        "name": "Release",
+        "count": 1
+      },
+      {
+        "name": "Feature flags",
+        "count": 1
+      },
+      {
+        "name": "Flaky tests",
+        "count": 1
+      },
+      {
+        "name": "Rollback",
+        "count": 1
+      },
+      {
+        "name": "Pipeline security",
+        "count": 1
+      },
+      {
+        "name": "Database migration",
+        "count": 1
+      },
+      {
+        "name": "Governance",
+        "count": 1
+      },
+      {
+        "name": "Monorepo",
+        "count": 1
+      },
+      {
+        "name": "Dashboard",
+        "count": 1
+      },
+      {
+        "name": "Monitoring",
+        "count": 1
+      },
+      {
+        "name": "Tracing",
+        "count": 1
+      },
+      {
+        "name": "Metrics",
+        "count": 1
+      },
+      {
+        "name": "OpenTelemetry",
+        "count": 1
+      },
+      {
+        "name": "SLO",
+        "count": 1
+      },
+      {
+        "name": "Incident Response",
+        "count": 1
+      },
+      {
+        "name": "Postmortem",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Angular",
+    "slug": "angular",
+    "count": 67,
+    "subcategories": [
+      {
+        "name": "Components & Templates",
+        "count": 14
+      },
+      {
+        "name": "Signals & Change Detection",
+        "count": 7
+      },
+      {
+        "name": "Core Concepts",
+        "count": 6
+      },
+      {
+        "name": "Dependency Injection",
+        "count": 6
+      },
+      {
+        "name": "Routing",
+        "count": 6
+      },
+      {
+        "name": "Forms",
+        "count": 5
+      },
+      {
+        "name": "HTTP & RxJS",
+        "count": 5
+      },
+      {
+        "name": "SSR & Performance",
+        "count": 5
+      },
+      {
+        "name": "Testing & Architecture",
+        "count": 5
+      },
+      {
+        "name": "Change Detection",
+        "count": 2
+      },
+      {
+        "name": "Signals",
+        "count": 2
+      },
+      {
+        "name": "RxJS Interop",
+        "count": 1
+      },
+      {
+        "name": "Zoneless",
+        "count": 1
+      },
+      {
+        "name": "HttpClient",
+        "count": 1
+      },
+      {
+        "name": "Lifecycle",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "AWS & Cloud",
+    "slug": "aws-cloud",
+    "count": 66,
+    "subcategories": [
+      {
+        "name": "Compute & Networking",
+        "count": 10
+      },
+      {
+        "name": "Storage & Database",
+        "count": 10
+      },
+      {
+        "name": "Security & DevOps",
+        "count": 6
+      },
+      {
+        "name": "Architecture",
+        "count": 6
+      },
+      {
+        "name": "Compute",
+        "count": 5
+      },
+      {
+        "name": "Networking",
+        "count": 5
+      },
+      {
+        "name": "IAM",
+        "count": 4
+      },
+      {
+        "name": "Security",
+        "count": 2
+      },
+      {
+        "name": "Global Infrastructure",
+        "count": 2
+      },
+      {
+        "name": "RDS",
+        "count": 2
+      },
+      {
+        "name": "Load Balancer",
+        "count": 2
+      },
+      {
+        "name": "Storage",
+        "count": 1
+      },
+      {
+        "name": "Scaling",
+        "count": 1
+      },
+      {
+        "name": "Database",
+        "count": 1
+      },
+      {
+        "name": "CDN",
+        "count": 1
+      },
+      {
+        "name": "Reliability",
+        "count": 1
+      },
+      {
+        "name": "S3",
+        "count": 1
+      },
+      {
+        "name": "CloudWatch",
+        "count": 1
+      },
+      {
+        "name": "CloudFront",
+        "count": 1
+      },
+      {
+        "name": "Secrets",
+        "count": 1
+      },
+      {
+        "name": "Lambda",
+        "count": 1
+      },
+      {
+        "name": "Cost",
+        "count": 1
+      },
+      {
+        "name": "VPC",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Design Patterns",
+    "slug": "design-patterns",
+    "count": 64,
+    "subcategories": [
+      {
+        "name": "Behavioral",
+        "count": 15
+      },
+      {
+        "name": "Creational",
+        "count": 10
+      },
+      {
+        "name": "Structural",
+        "count": 10
+      },
+      {
+        "name": "SOLID",
+        "count": 8
+      },
+      {
+        "name": "OOP Nền tảng",
+        "count": 3
+      },
+      {
+        "name": "Overview",
+        "count": 1
+      },
+      {
+        "name": "OOP Principles",
+        "count": 1
+      },
+      {
+        "name": "Strategy",
+        "count": 1
+      },
+      {
+        "name": "Builder",
+        "count": 1
+      },
+      {
+        "name": "Singleton",
+        "count": 1
+      },
+      {
+        "name": "Observer",
+        "count": 1
+      },
+      {
+        "name": "Factory",
+        "count": 1
+      },
+      {
+        "name": "Decorator",
+        "count": 1
+      },
+      {
+        "name": "Dependency Injection",
+        "count": 1
+      },
+      {
+        "name": "Adapter",
+        "count": 1
+      },
+      {
+        "name": "Template Method",
+        "count": 1
+      },
+      {
+        "name": "OCP",
+        "count": 1
+      },
+      {
+        "name": "Repository",
+        "count": 1
+      },
+      {
+        "name": "Facade",
+        "count": 1
+      },
+      {
+        "name": "State Machine",
+        "count": 1
+      },
+      {
+        "name": "Refactoring",
+        "count": 1
+      },
+      {
+        "name": "Command",
+        "count": 1
+      },
+      {
+        "name": "DIP",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Vue.js",
+    "slug": "vuejs",
+    "count": 64,
+    "subcategories": [
+      {
+        "name": "Performance",
+        "count": 9
+      },
+      {
+        "name": "Chuyên Sâu",
+        "count": 9
+      },
+      {
+        "name": "Composition API",
+        "count": 8
+      },
+      {
+        "name": "Reactivity",
+        "count": 6
+      },
+      {
+        "name": "Pinia",
+        "count": 6
+      },
+      {
+        "name": "Vue Router",
+        "count": 5
+      },
+      {
+        "name": "Core Concepts",
+        "count": 4
+      },
+      {
+        "name": "Directives",
+        "count": 4
+      },
+      {
+        "name": "Component Communication",
+        "count": 4
+      },
+      {
+        "name": "SSR & Nuxt",
+        "count": 4
+      },
+      {
+        "name": "Template",
+        "count": 1
+      },
+      {
+        "name": "Props",
+        "count": 1
+      },
+      {
+        "name": "Watchers",
+        "count": 1
+      },
+      {
+        "name": "v-model",
+        "count": 1
+      },
+      {
+        "name": "Composables",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "count": 61,
+    "subcategories": [
+      {
+        "name": "Exception & Gem",
+        "count": 17
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 12
+      },
+      {
+        "name": "OOP & Module",
+        "count": 12
+      },
+      {
+        "name": "Block & Iterator",
+        "count": 9
+      },
+      {
+        "name": "Metaprogramming",
+        "count": 8
+      },
+      {
+        "name": "Blocks",
+        "count": 1
+      },
+      {
+        "name": "Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Memory",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "count": 60,
+    "subcategories": [
+      {
+        "name": "Indexes",
+        "count": 10
+      },
+      {
+        "name": "Document Model",
+        "count": 7
+      },
+      {
+        "name": "Schema Design",
+        "count": 7
+      },
+      {
+        "name": "Aggregation",
+        "count": 6
+      },
+      {
+        "name": "Operations",
+        "count": 5
+      },
+      {
+        "name": "CRUD & Querying",
+        "count": 4
+      },
+      {
+        "name": "Transactions & Consistency",
+        "count": 4
+      },
+      {
+        "name": "Sharding",
+        "count": 3
+      },
+      {
+        "name": "Sharding & Scale",
+        "count": 2
+      },
+      {
+        "name": "Change Streams",
+        "count": 2
+      },
+      {
+        "name": "Replication",
+        "count": 2
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Architecture",
+        "count": 1
+      },
+      {
+        "name": "Indexing",
+        "count": 1
+      },
+      {
+        "name": "Data Modeling",
+        "count": 1
+      },
+      {
+        "name": "Query Performance",
+        "count": 1
+      },
+      {
+        "name": "Schema Validation",
+        "count": 1
+      },
+      {
+        "name": "Schema Patterns",
+        "count": 1
+      },
+      {
+        "name": "Schema Migration",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "NestJS",
+    "slug": "nestjs",
+    "count": 59,
+    "subcategories": [
+      {
+        "name": "Core",
+        "count": 12
+      },
+      {
+        "name": "Request Pipeline",
+        "count": 11
+      },
+      {
+        "name": "Testing & Production",
+        "count": 10
+      },
+      {
+        "name": "Database & ORM",
+        "count": 7
+      },
+      {
+        "name": "Microservices & Messaging",
+        "count": 6
+      },
+      {
+        "name": "Auth & Security",
+        "count": 5
+      },
+      {
+        "name": "Modules & DI",
+        "count": 2
+      },
+      {
+        "name": "Guards & Middleware",
+        "count": 1
+      },
+      {
+        "name": "Exception Filters",
+        "count": 1
+      },
+      {
+        "name": "Microservices",
+        "count": 1
+      },
+      {
+        "name": "Custom Providers",
+        "count": 1
+      },
+      {
+        "name": "Validation",
+        "count": 1
+      },
+      {
+        "name": "ModuleRef",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "C++",
+    "slug": "cpp",
+    "count": 57,
+    "subcategories": [
+      {
+        "name": "Modern C++ (11/14/17)",
+        "count": 16
+      },
+      {
+        "name": "OOP",
+        "count": 13
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 11
+      },
+      {
+        "name": "Con trỏ & Bộ nhớ",
+        "count": 9
+      },
+      {
+        "name": "STL",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "Business Analyst",
+    "slug": "business-analyst",
+    "count": 57,
+    "subcategories": [
+      {
+        "name": "Yêu cầu & Tài liệu",
+        "count": 14
+      },
+      {
+        "name": "Mô hình hoá",
+        "count": 10
+      },
+      {
+        "name": "Phân tích & Công cụ",
+        "count": 9
+      },
+      {
+        "name": "Vai trò BA",
+        "count": 8
+      },
+      {
+        "name": "Agile & Quy trình",
+        "count": 6
+      },
+      {
+        "name": "Kỹ năng & Lộ trình",
+        "count": 5
+      },
+      {
+        "name": "Tình huống",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Backend & API",
+    "slug": "backend-api",
+    "count": 56,
+    "subcategories": [
+      {
+        "name": "API & HTTP",
+        "count": 9
+      },
+      {
+        "name": "Pagination",
+        "count": 2
+      },
+      {
+        "name": "Concurrency & Async",
+        "count": 2
+      },
+      {
+        "name": "API & REST",
+        "count": 2
+      },
+      {
+        "name": "HTTP Methods",
+        "count": 2
+      },
+      {
+        "name": "Status Codes",
+        "count": 2
+      },
+      {
+        "name": "Versioning",
+        "count": 2
+      },
+      {
+        "name": "Idempotency",
+        "count": 2
+      },
+      {
+        "name": "API Style",
+        "count": 1
+      },
+      {
+        "name": "Integration",
+        "count": 1
+      },
+      {
+        "name": "Reliability",
+        "count": 1
+      },
+      {
+        "name": "Realtime",
+        "count": 1
+      },
+      {
+        "name": "HTTP Caching",
+        "count": 1
+      },
+      {
+        "name": "HTTP Protocol",
+        "count": 1
+      },
+      {
+        "name": "SQL",
+        "count": 1
+      },
+      {
+        "name": "Data Modeling",
+        "count": 1
+      },
+      {
+        "name": "Error Handling",
+        "count": 1
+      },
+      {
+        "name": "Bulk Operations",
+        "count": 1
+      },
+      {
+        "name": "Async API",
+        "count": 1
+      },
+      {
+        "name": "Query Design",
+        "count": 1
+      },
+      {
+        "name": "Rate Limiting",
+        "count": 1
+      },
+      {
+        "name": "Conditional Requests",
+        "count": 1
+      },
+      {
+        "name": "API Evolution",
+        "count": 1
+      },
+      {
+        "name": "Resilience",
+        "count": 1
+      },
+      {
+        "name": "Webhooks",
+        "count": 1
+      },
+      {
+        "name": "Dual Write",
+        "count": 1
+      },
+      {
+        "name": "Retry",
+        "count": 1
+      },
+      {
+        "name": "Backpressure",
+        "count": 1
+      },
+      {
+        "name": "Broker Selection",
+        "count": 1
+      },
+      {
+        "name": "Outbox",
+        "count": 1
+      },
+      {
+        "name": "Saga",
+        "count": 1
+      },
+      {
+        "name": "Tiền tệ",
+        "count": 1
+      },
+      {
+        "name": "Phân quyền",
+        "count": 1
+      },
+      {
+        "name": "Credentials",
+        "count": 1
+      },
+      {
+        "name": "Giao tiếp service",
+        "count": 1
+      },
+      {
+        "name": "API Gateway",
+        "count": 1
+      },
+      {
+        "name": "BFF",
+        "count": 1
+      },
+      {
+        "name": "SQL Injection",
+        "count": 1
+      },
+      {
+        "name": "Validation",
+        "count": 1
+      },
+      {
+        "name": "Command Injection",
+        "count": 1
+      },
+      {
+        "name": "API Security",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Laravel",
+    "slug": "laravel",
+    "count": 55,
+    "subcategories": [
+      {
+        "name": "Laravel Nâng Cao",
+        "count": 14
+      },
+      {
+        "name": "Laravel Cơ Bản",
+        "count": 13
+      },
+      {
+        "name": "Eloquent & Database",
+        "count": 10
+      },
+      {
+        "name": "Eloquent",
+        "count": 4
+      },
+      {
+        "name": "Queue",
+        "count": 2
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "Thiết Kế",
+        "count": 1
+      },
+      {
+        "name": "Công Cụ",
+        "count": 1
+      },
+      {
+        "name": "Hiệu Năng",
+        "count": 1
+      },
+      {
+        "name": "I/O",
+        "count": 1
+      },
+      {
+        "name": "Service Provider",
+        "count": 1
+      },
+      {
+        "name": "Validation",
+        "count": 1
+      },
+      {
+        "name": "Service Container",
+        "count": 1
+      },
+      {
+        "name": "Routing",
+        "count": 1
+      },
+      {
+        "name": "Events",
+        "count": 1
+      },
+      {
+        "name": "Transactions",
+        "count": 1
+      },
+      {
+        "name": "Configuration",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "FastAPI",
+    "slug": "fastapi",
+    "count": 54,
+    "subcategories": [
+      {
+        "name": "Core",
+        "count": 11
+      },
+      {
+        "name": "Testing & Production",
+        "count": 9
+      },
+      {
+        "name": "Validation & Models",
+        "count": 7
+      },
+      {
+        "name": "Dependencies",
+        "count": 4
+      },
+      {
+        "name": "Security",
+        "count": 4
+      },
+      {
+        "name": "Database & Async",
+        "count": 3
+      },
+      {
+        "name": "Architecture",
+        "count": 3
+      },
+      {
+        "name": "Pydantic",
+        "count": 2
+      },
+      {
+        "name": "Error Handling",
+        "count": 1
+      },
+      {
+        "name": "Event Loop",
+        "count": 1
+      },
+      {
+        "name": "Serialization",
+        "count": 1
+      },
+      {
+        "name": "Deployment",
+        "count": 1
+      },
+      {
+        "name": "Concurrency",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Streaming",
+        "count": 1
+      },
+      {
+        "name": "Background Tasks",
+        "count": 1
+      },
+      {
+        "name": "Middleware",
+        "count": 1
+      },
+      {
+        "name": "SQLAlchemy Async",
+        "count": 1
+      },
+      {
+        "name": "Request Lifecycle",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "count": 53,
+    "subcategories": [
+      {
+        "name": "Merge & Rebase",
+        "count": 11
+      },
+      {
+        "name": "Workflow & Branching",
+        "count": 9
+      },
+      {
+        "name": "Commits & History",
+        "count": 9
+      },
+      {
+        "name": "Recovery & Time Travel",
+        "count": 7
+      },
+      {
+        "name": "Advanced Workflows",
+        "count": 7
+      },
+      {
+        "name": "Force Push & Safety",
+        "count": 5
+      },
+      {
+        "name": "Hooks & Automation",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Operating System",
+    "slug": "operating-system",
+    "count": 51,
+    "subcategories": [
+      {
+        "name": "Memory & Storage",
+        "count": 9
+      },
+      {
+        "name": "Process & Thread",
+        "count": 8
+      },
+      {
+        "name": "Linux Practical",
+        "count": 6
+      },
+      {
+        "name": "Bộ nhớ",
+        "count": 6
+      },
+      {
+        "name": "Linux",
+        "count": 5
+      },
+      {
+        "name": "Tiến trình",
+        "count": 4
+      },
+      {
+        "name": "Concurrency & Synchronization",
+        "count": 3
+      },
+      {
+        "name": "I/O & Scheduling",
+        "count": 2
+      },
+      {
+        "name": "Deadlock",
+        "count": 2
+      },
+      {
+        "name": "Lập lịch",
+        "count": 2
+      },
+      {
+        "name": "Kernel",
+        "count": 2
+      },
+      {
+        "name": "Đồng bộ",
+        "count": 1
+      },
+      {
+        "name": "Lưu trữ",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "RabbitMQ",
+    "slug": "rabbitmq",
+    "count": 51,
+    "subcategories": [
+      {
+        "name": "Nhập Môn",
+        "count": 16
+      },
+      {
+        "name": "Exchange & Routing",
+        "count": 10
+      },
+      {
+        "name": "Reliability & Performance",
+        "count": 9
+      },
+      {
+        "name": "Patterns & Architecture",
+        "count": 7
+      },
+      {
+        "name": "Operations & Monitoring",
+        "count": 7
+      },
+      {
+        "name": "Delayed Message",
+        "count": 1
+      },
+      {
+        "name": "Poison Message",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Network",
+    "slug": "network",
+    "count": 48,
+    "subcategories": [
+      {
+        "name": "Web & API",
+        "count": 8
+      },
+      {
+        "name": "OSI & TCP/IP",
+        "count": 5
+      },
+      {
+        "name": "Security & Tooling",
+        "count": 5
+      },
+      {
+        "name": "Giao thức",
+        "count": 5
+      },
+      {
+        "name": "Tầng mạng",
+        "count": 5
+      },
+      {
+        "name": "Performance",
+        "count": 4
+      },
+      {
+        "name": "Protocols",
+        "count": 3
+      },
+      {
+        "name": "Web",
+        "count": 2
+      },
+      {
+        "name": "Proxy",
+        "count": 2
+      },
+      {
+        "name": "Security",
+        "count": 2
+      },
+      {
+        "name": "Bảo mật mạng",
+        "count": 2
+      },
+      {
+        "name": "Transport",
+        "count": 1
+      },
+      {
+        "name": "DNS",
+        "count": 1
+      },
+      {
+        "name": "Load Balancing",
+        "count": 1
+      },
+      {
+        "name": "Addressing",
+        "count": 1
+      },
+      {
+        "name": "Định tuyến",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Product Management",
+    "slug": "product-management",
+    "count": 48,
+    "subcategories": [
+      {
+        "name": "Số liệu",
+        "count": 7
+      },
+      {
+        "name": "Tình huống",
+        "count": 7
+      },
+      {
+        "name": "Quản lý dự án",
+        "count": 6
+      },
+      {
+        "name": "Ước lượng & Tiến độ",
+        "count": 6
+      },
+      {
+        "name": "Khám phá sản phẩm",
+        "count": 5
+      },
+      {
+        "name": "Ưu tiên & Roadmap",
+        "count": 5
+      },
+      {
+        "name": "Stakeholder & Rủi ro",
+        "count": 5
+      },
+      {
+        "name": "Scrum & Agile",
+        "count": 4
+      },
+      {
+        "name": "Vai trò PM/PO",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Data Engineering",
+    "slug": "data-engineering",
+    "count": 46,
+    "subcategories": [
+      {
+        "name": "Spark & Batch",
+        "count": 10
+      },
+      {
+        "name": "Vai trò & Nền tảng",
+        "count": 6
+      },
+      {
+        "name": "SQL cho Data Engineer",
+        "count": 5
+      },
+      {
+        "name": "Data Warehouse",
+        "count": 4
+      },
+      {
+        "name": "Mô hình hoá dữ liệu",
+        "count": 4
+      },
+      {
+        "name": "Streaming",
+        "count": 4
+      },
+      {
+        "name": "Chất lượng dữ liệu",
+        "count": 4
+      },
+      {
+        "name": "ETL & ELT",
+        "count": 3
+      },
+      {
+        "name": "Orchestration",
+        "count": 3
+      },
+      {
+        "name": "Tình huống",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Kafka",
+    "slug": "kafka",
+    "count": 44,
+    "subcategories": [
+      {
+        "name": "Nhập Môn",
+        "count": 9
+      },
+      {
+        "name": "Chuyên Sâu",
+        "count": 8
+      },
+      {
+        "name": "Producers & Consumers",
+        "count": 5
+      },
+      {
+        "name": "Architecture Patterns",
+        "count": 5
+      },
+      {
+        "name": "Operations",
+        "count": 4
+      },
+      {
+        "name": "Dead Letter Queue",
+        "count": 2
+      },
+      {
+        "name": "Messaging",
+        "count": 1
+      },
+      {
+        "name": "Partitions",
+        "count": 1
+      },
+      {
+        "name": "Retention",
+        "count": 1
+      },
+      {
+        "name": "Stream Processing",
+        "count": 1
+      },
+      {
+        "name": "Producer",
+        "count": 1
+      },
+      {
+        "name": "Delivery Semantics",
+        "count": 1
+      },
+      {
+        "name": "Ordering",
+        "count": 1
+      },
+      {
+        "name": "Consumer Lag",
+        "count": 1
+      },
+      {
+        "name": "Rebalance",
+        "count": 1
+      },
+      {
+        "name": "Exactly-Once",
+        "count": 1
+      },
+      {
+        "name": "Schema Evolution",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "count": 43,
+    "subcategories": [
+      {
+        "name": "Chuyên Sâu",
+        "count": 13
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 11
+      },
+      {
+        "name": "OOP",
+        "count": 10
+      },
+      {
+        "name": "PHP 8",
+        "count": 3
+      },
+      {
+        "name": "Hiệu Năng",
+        "count": 1
+      },
+      {
+        "name": "Thiết Kế",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "I/O",
+        "count": 1
+      },
+      {
+        "name": "Công Cụ",
+        "count": 1
+      },
+      {
+        "name": "Kiểu Dữ Liệu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "count": 42,
+    "subcategories": [
+      {
+        "name": "Supervised",
+        "count": 6
+      },
+      {
+        "name": "Model Evaluation",
+        "count": 5
+      },
+      {
+        "name": "Model Validation",
+        "count": 4
+      },
+      {
+        "name": "Feature Engineering",
+        "count": 3
+      },
+      {
+        "name": "Ensemble",
+        "count": 3
+      },
+      {
+        "name": "Unsupervised",
+        "count": 3
+      },
+      {
+        "name": "Metrics",
+        "count": 2
+      },
+      {
+        "name": "Regularization",
+        "count": 1
+      },
+      {
+        "name": "Optimization",
+        "count": 1
+      },
+      {
+        "name": "Fundamentals",
+        "count": 1
+      },
+      {
+        "name": "Diagnostics",
+        "count": 1
+      },
+      {
+        "name": "Workflow",
+        "count": 1
+      },
+      {
+        "name": "Preprocessing",
+        "count": 1
+      },
+      {
+        "name": "Data Quality",
+        "count": 1
+      },
+      {
+        "name": "Imbalanced Data",
+        "count": 1
+      },
+      {
+        "name": "Production",
+        "count": 1
+      },
+      {
+        "name": "Thresholding",
+        "count": 1
+      },
+      {
+        "name": "Data Leakage",
+        "count": 1
+      },
+      {
+        "name": "Interpretability",
+        "count": 1
+      },
+      {
+        "name": "Feature Encoding",
+        "count": 1
+      },
+      {
+        "name": "Validation",
+        "count": 1
+      },
+      {
+        "name": "Reproducibility",
+        "count": 1
+      },
+      {
+        "name": "MLOps",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "GraphQL",
+    "slug": "graphql",
+    "count": 40,
+    "subcategories": [
+      {
+        "name": "Vận hành",
+        "count": 6
+      },
+      {
+        "name": "Truy vấn",
+        "count": 3
+      },
+      {
+        "name": "Bảo mật",
+        "count": 3
+      },
+      {
+        "name": "Thiết kế",
+        "count": 3
+      },
+      {
+        "name": "Kiểu dữ liệu",
+        "count": 2
+      },
+      {
+        "name": "Xử lý lỗi",
+        "count": 2
+      },
+      {
+        "name": "Hiệu năng",
+        "count": 2
+      },
+      {
+        "name": "Cache",
+        "count": 2
+      },
+      {
+        "name": "Kiến trúc",
+        "count": 2
+      },
+      {
+        "name": "Nhập môn",
+        "count": 1
+      },
+      {
+        "name": "Schema",
+        "count": 1
+      },
+      {
+        "name": "Thao tác",
+        "count": 1
+      },
+      {
+        "name": "Resolver",
+        "count": 1
+      },
+      {
+        "name": "Phân trang",
+        "count": 1
+      },
+      {
+        "name": "Công cụ",
+        "count": 1
+      },
+      {
+        "name": "Tiến hoá schema",
+        "count": 1
+      },
+      {
+        "name": "Subscription",
+        "count": 1
+      },
+      {
+        "name": "Abstract type",
+        "count": 1
+      },
+      {
+        "name": "Client",
+        "count": 1
+      },
+      {
+        "name": "Test",
+        "count": 1
+      },
+      {
+        "name": "Thực hành",
+        "count": 1
+      },
+      {
+        "name": "Mô hình thực thi",
+        "count": 1
+      },
+      {
+        "name": "Chuyển đổi",
+        "count": 1
+      },
+      {
+        "name": "Quyết định công nghệ",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Elasticsearch",
+    "slug": "elasticsearch",
+    "count": 40,
+    "subcategories": [
+      {
+        "name": "Operations",
+        "count": 7
+      },
+      {
+        "name": "Architecture",
+        "count": 5
+      },
+      {
+        "name": "Mapping",
+        "count": 5
+      },
+      {
+        "name": "Search",
+        "count": 5
+      },
+      {
+        "name": "Indexing",
+        "count": 3
+      },
+      {
+        "name": "Relevance",
+        "count": 3
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 2
+      },
+      {
+        "name": "Query DSL",
+        "count": 2
+      },
+      {
+        "name": "Analysis",
+        "count": 2
+      },
+      {
+        "name": "Internals",
+        "count": 2
+      },
+      {
+        "name": "Performance",
+        "count": 2
+      },
+      {
+        "name": "Aggregations",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Performance",
+    "slug": "performance",
+    "count": 39,
+    "subcategories": [
+      {
+        "name": "Web Vitals & Optimization",
+        "count": 8
+      },
+      {
+        "name": "Performance",
+        "count": 4
+      },
+      {
+        "name": "Web Perf",
+        "count": 3
+      },
+      {
+        "name": "Code Splitting",
+        "count": 3
+      },
+      {
+        "name": "Web Vitals",
+        "count": 3
+      },
+      {
+        "name": "Images",
+        "count": 3
+      },
+      {
+        "name": "Bundle & Performance",
+        "count": 2
+      },
+      {
+        "name": "Assets & Images",
+        "count": 1
+      },
+      {
+        "name": "Memoization",
+        "count": 1
+      },
+      {
+        "name": "State Placement",
+        "count": 1
+      },
+      {
+        "name": "Long Lists",
+        "count": 1
+      },
+      {
+        "name": "Profiling",
+        "count": 1
+      },
+      {
+        "name": "Fonts",
+        "count": 1
+      },
+      {
+        "name": "Bundle Size",
+        "count": 1
+      },
+      {
+        "name": "Reflow & Repaint",
+        "count": 1
+      },
+      {
+        "name": "Resource Hints",
+        "count": 1
+      },
+      {
+        "name": "Event Listeners",
+        "count": 1
+      },
+      {
+        "name": "Main Thread",
+        "count": 1
+      },
+      {
+        "name": "Latency",
+        "count": 1
+      },
+      {
+        "name": "Troubleshooting",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Terraform & IaC",
+    "slug": "terraform-iac",
+    "count": 38,
+    "subcategories": [
+      {
+        "name": "Operations",
+        "count": 6
+      },
+      {
+        "name": "State",
+        "count": 3
+      },
+      {
+        "name": "Architecture",
+        "count": 3
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 2
+      },
+      {
+        "name": "Providers",
+        "count": 2
+      },
+      {
+        "name": "Modules",
+        "count": 2
+      },
+      {
+        "name": "Environments",
+        "count": 2
+      },
+      {
+        "name": "Lifecycle",
+        "count": 2
+      },
+      {
+        "name": "Data Sources",
+        "count": 1
+      },
+      {
+        "name": "Workflow",
+        "count": 1
+      },
+      {
+        "name": "Variables",
+        "count": 1
+      },
+      {
+        "name": "Meta-arguments",
+        "count": 1
+      },
+      {
+        "name": "Import",
+        "count": 1
+      },
+      {
+        "name": "Refactoring",
+        "count": 1
+      },
+      {
+        "name": "Security",
+        "count": 1
+      },
+      {
+        "name": "CI/CD",
+        "count": 1
+      },
+      {
+        "name": "Provisioners",
+        "count": 1
+      },
+      {
+        "name": "Policy",
+        "count": 1
+      },
+      {
+        "name": "Cost",
+        "count": 1
+      },
+      {
+        "name": "Testing",
+        "count": 1
+      },
+      {
+        "name": "Disaster Recovery",
+        "count": 1
+      },
+      {
+        "name": "Migration",
+        "count": 1
+      },
+      {
+        "name": "Performance",
+        "count": 1
+      },
+      {
+        "name": "Drift",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "DSA",
+    "slug": "dsa",
+    "count": 34,
+    "subcategories": [
+      {
+        "name": "Dynamic Programming",
+        "count": 4
+      },
+      {
+        "name": "Heap",
+        "count": 3
+      },
+      {
+        "name": "Linked List",
+        "count": 3
+      },
+      {
+        "name": "Binary Search",
+        "count": 2
+      },
+      {
+        "name": "Hash Map",
+        "count": 1
+      },
+      {
+        "name": "Two Pointers",
+        "count": 1
+      },
+      {
+        "name": "Sliding Window",
+        "count": 1
+      },
+      {
+        "name": "BFS vs DFS",
+        "count": 1
+      },
+      {
+        "name": "DP-1D",
+        "count": 1
+      },
+      {
+        "name": "Big-O",
+        "count": 1
+      },
+      {
+        "name": "Backtracking",
+        "count": 1
+      },
+      {
+        "name": "Tree",
+        "count": 1
+      },
+      {
+        "name": "Edge Case",
+        "count": 1
+      },
+      {
+        "name": "General",
+        "count": 1
+      },
+      {
+        "name": "Stack",
+        "count": 1
+      },
+      {
+        "name": "Monotonic Stack",
+        "count": 1
+      },
+      {
+        "name": "Graph / Grid",
+        "count": 1
+      },
+      {
+        "name": "Tree / BFS",
+        "count": 1
+      },
+      {
+        "name": "Graph",
+        "count": 1
+      },
+      {
+        "name": "Graph / Shortest Path",
+        "count": 1
+      },
+      {
+        "name": "Union-Find",
+        "count": 1
+      },
+      {
+        "name": "Graph / Topological Sort",
+        "count": 1
+      },
+      {
+        "name": "Trie",
+        "count": 1
+      },
+      {
+        "name": "Quickselect",
+        "count": 1
+      },
+      {
+        "name": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "name": "Design / Hash + Linked List",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Redis",
+    "slug": "redis",
+    "count": 33,
+    "subcategories": [
+      {
+        "name": "Nhập Môn",
+        "count": 10
+      },
+      {
+        "name": "Chuyên Sâu",
+        "count": 5
+      },
+      {
+        "name": "Data Structures",
+        "count": 4
+      },
+      {
+        "name": "Patterns & Use Cases",
+        "count": 4
+      },
+      {
+        "name": "Operations",
+        "count": 4
+      },
+      {
+        "name": "Caching",
+        "count": 1
+      },
+      {
+        "name": "Cache Stampede",
+        "count": 1
+      },
+      {
+        "name": "Bảo Mật",
+        "count": 1
+      },
+      {
+        "name": "Giới Hạn",
+        "count": 1
+      },
+      {
+        "name": "Durability",
+        "count": 1
+      },
+      {
+        "name": "Hot key",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "SEO",
+    "slug": "seo",
+    "count": 24,
+    "subcategories": [
+      {
+        "name": "Technical",
+        "count": 10
+      },
+      {
+        "name": "Nhập Môn",
+        "count": 6
+      },
+      {
+        "name": "Next.js SEO",
+        "count": 6
+      },
+      {
+        "name": "Rendering",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Micro-frontend",
+    "slug": "micro-frontend",
+    "count": 22,
+    "subcategories": [
+      {
+        "name": "Micro-frontend",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "name": "Deep Learning",
+    "slug": "deep-learning",
+    "count": 17,
+    "subcategories": [
+      {
+        "name": "LLM Fundamentals",
+        "count": 4
+      },
+      {
+        "name": "Training",
+        "count": 4
+      },
+      {
+        "name": "Fundamentals",
+        "count": 3
+      },
+      {
+        "name": "Architectures",
+        "count": 2
+      },
+      {
+        "name": "Generative Models",
+        "count": 2
+      },
+      {
+        "name": "Optimization",
+        "count": 1
+      },
+      {
+        "name": "Regularization",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Database Design",
+    "slug": "database-design",
+    "count": 16,
+    "subcategories": [
+      {
+        "name": "Order Snapshot",
+        "count": 1
+      },
+      {
+        "name": "Inventory",
+        "count": 1
+      },
+      {
+        "name": "Product Variants",
+        "count": 1
+      },
+      {
+        "name": "Promotions",
+        "count": 1
+      },
+      {
+        "name": "Money",
+        "count": 1
+      },
+      {
+        "name": "Hierarchy",
+        "count": 1
+      },
+      {
+        "name": "Primary Key",
+        "count": 1
+      },
+      {
+        "name": "Join Table",
+        "count": 1
+      },
+      {
+        "name": "Soft Delete",
+        "count": 1
+      },
+      {
+        "name": "Versioning",
+        "count": 1
+      },
+      {
+        "name": "Multi-tenant",
+        "count": 1
+      },
+      {
+        "name": "Denormalization",
+        "count": 1
+      },
+      {
+        "name": "Temporal Data",
+        "count": 1
+      },
+      {
+        "name": "Enum",
+        "count": 1
+      },
+      {
+        "name": "Event Tables",
+        "count": 1
+      },
+      {
+        "name": "Custom Fields",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Build Tools",
+    "slug": "build-tools",
+    "count": 15,
+    "subcategories": [
+      {
+        "name": "Bundlers",
+        "count": 12
+      },
+      {
+        "name": "Package Managers",
+        "count": 2
+      },
+      {
+        "name": "Tooling",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Statistics",
+    "slug": "statistics",
+    "count": 11,
+    "subcategories": [
+      {
+        "name": "Inference",
+        "count": 4
+      },
+      {
+        "name": "Descriptive",
+        "count": 2
+      },
+      {
+        "name": "Association",
+        "count": 1
+      },
+      {
+        "name": "Distributions",
+        "count": 1
+      },
+      {
+        "name": "Sampling",
+        "count": 1
+      },
+      {
+        "name": "Experimentation",
+        "count": 1
+      },
+      {
+        "name": "Probability",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Caching",
+    "slug": "caching",
+    "count": 9,
+    "subcategories": [
+      {
+        "name": "Cache key",
+        "count": 1
+      },
+      {
+        "name": "TTL",
+        "count": 1
+      },
+      {
+        "name": "Cache policy",
+        "count": 1
+      },
+      {
+        "name": "Hit ratio",
+        "count": 1
+      },
+      {
+        "name": "Invalidation",
+        "count": 1
+      },
+      {
+        "name": "Cold cache",
+        "count": 1
+      },
+      {
+        "name": "Cache Layers",
+        "count": 1
+      },
+      {
+        "name": "CDN",
+        "count": 1
+      },
+      {
+        "name": "Thundering Herd",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Reinforcement Learning",
+    "slug": "reinforcement-learning",
+    "count": 7,
+    "subcategories": [
+      {
+        "name": "Fundamentals",
+        "count": 3
+      },
+      {
+        "name": "Methods",
+        "count": 2
+      },
+      {
+        "name": "Algorithms",
+        "count": 1
+      },
+      {
+        "name": "Deep RL",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Code Quality",
+    "slug": "code-quality",
+    "count": 6,
+    "subcategories": [
+      {
+        "name": "Readability",
+        "count": 1
+      },
+      {
+        "name": "Built-ins",
+        "count": 1
+      },
+      {
+        "name": "Đặt tên & cấu trúc test",
+        "count": 1
+      },
+      {
+        "name": "Assert hành vi",
+        "count": 1
+      },
+      {
+        "name": "Coverage",
+        "count": 1
+      },
+      {
+        "name": "Thuyết phục nhóm",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Data Science",
+    "slug": "data-science",
+    "count": 6,
+    "subcategories": [
+      {
+        "name": "Preprocessing",
+        "count": 3
+      },
+      {
+        "name": "Time Series",
+        "count": 1
+      },
+      {
+        "name": "Recommender Systems",
+        "count": 1
+      },
+      {
+        "name": "Fundamentals",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Coding Interview",
+    "slug": "coding-interview",
+    "count": 5,
+    "subcategories": [
+      {
+        "name": "Interview Flow",
+        "count": 1
+      },
+      {
+        "name": "Communication",
+        "count": 1
+      },
+      {
+        "name": "Complexity Talk",
+        "count": 1
+      },
+      {
+        "name": "Behavioral",
+        "count": 1
+      },
+      {
+        "name": "Time Management",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Tất cả câu hỏi",
+    "slug": "tt-c-cu-hi",
+    "count": 5,
+    "subcategories": []
+  },
+  {
+    "name": "SQL Nhập Môn",
+    "slug": "sql-nhp-mn",
+    "count": 4,
+    "subcategories": [
+      {
+        "name": "Query Semantics",
+        "count": 1
+      },
+      {
+        "name": "Aggregates",
+        "count": 1
+      },
+      {
+        "name": "NULL Handling",
+        "count": 1
+      },
+      {
+        "name": "Pagination",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Problem Solving",
+    "slug": "problem-solving",
+    "count": 3,
+    "subcategories": [
+      {
+        "name": "Clarifying",
+        "count": 1
+      },
+      {
+        "name": "Brute Force First",
+        "count": 1
+      },
+      {
+        "name": "When Stuck",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Trade-offs",
+    "slug": "trade-offs",
+    "count": 2,
+    "subcategories": [
+      {
+        "name": "Decision Making",
+        "count": 1
+      },
+      {
+        "name": "Time vs Space",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "NoSQL",
+    "slug": "nosql",
+    "count": 2,
+    "subcategories": [
+      {
+        "name": "DynamoDB",
+        "count": 1
+      },
+      {
+        "name": "Store selection",
+        "count": 1
+      }
+    ]
+  }
+]

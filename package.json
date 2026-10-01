@@ -1,0 +1,26 @@
+{
+  "name": "luyenphongvan-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "crawl": "node scraper/crawl_all.js",
+    "db:init": "node scripts/init_db.js"
+  },
+  "dependencies": {
+    "highlight.js": "^11.12.0",
+    "lucide-react": "^1.16.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}
