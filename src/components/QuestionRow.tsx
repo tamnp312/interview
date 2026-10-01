@@ -241,18 +241,18 @@ export default function QuestionRow({ question, displayIndex }: QuestionRowProps
               {/* References */}
               {data.references && data.references.length > 0 && (
                 <div className="q-row-references">
-                  <span className="q-row-ref-label">{t.question.referencesTitle}:</span>
-                  <div className="q-row-ref-list">
+                  <div className="q-row-ref-heading">{t.question.referencesTitle}</div>
+                  <div className="q-row-ref-links">
                     {data.references.map((ref, idx) => (
                       <a
                         key={idx}
                         href={ref.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="q-row-ref-item"
+                        className="q-row-ref-link"
                       >
                         <span>{ref.label || ref.url}</span>
-                        <ExternalLink size={11} />
+                        <ExternalLink size={12} />
                       </a>
                     ))}
                   </div>

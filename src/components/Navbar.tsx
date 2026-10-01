@@ -87,7 +87,7 @@ export default function Navbar() {
               <Code2 size={20} />
             </div>
             <span>
-              Luyện<span className="brand-accent">PhỏngVấn</span>
+              Inter<span className="brand-accent">view</span>
             </span>
           </Link>
 
@@ -153,7 +153,7 @@ export default function Navbar() {
                   <Code2 size={18} />
                 </div>
                 <span>
-                  Luyện<span className="brand-accent">PhỏngVấn</span>
+                  Inter<span className="brand-accent">view</span>
                 </span>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>

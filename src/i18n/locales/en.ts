@@ -2,7 +2,7 @@ import { Translations } from './vi';
 
 export const en: Translations = {
   common: {
-    appName: 'TechInterview',
+    appName: 'Interview',
     tagline: '4,450+ Tech Interview Questions with Answers',
     questionsCount: '4,450+ Curated Interview Questions',
     loading: 'Loading...',
@@ -19,7 +19,9 @@ export const en: Translations = {
     back: 'Back',
     language: 'Language',
     vi: 'Tiếng Việt',
-    en: 'English'
+    en: 'English',
+    seeAll: 'See all',
+    collapse: 'Collapse'
   },
   nav: {
     home: 'Home',

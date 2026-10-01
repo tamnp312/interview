@@ -1,8 +1,8 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
-import { BookOpen, Layers, Search, ArrowLeft } from 'lucide-react';
+import { BookOpen, Layers, Search, ArrowLeft, ChevronDown } from 'lucide-react';
 import SidebarNav from '../../../components/SidebarNav';
 import QuestionListView from '../../../components/QuestionListView';
 import Pagination from '../../../components/Pagination';
@@ -40,6 +40,7 @@ export default function CategoryClientView({
   allRoles = []
 }: CategoryClientViewProps) {
   const { t } = useLanguage();
+  const [isSubcatsExpanded, setIsSubcatsExpanded] = useState(false);
 
   // Create filter query helper
   const makeFilterUrl = (overrides: Record<string, string>) => {
@@ -166,10 +167,30 @@ export default function CategoryClientView({
             {/* Subcategories (if available for category) */}
             {category && category.subcategories && category.subcategories.length > 0 && (
               <div className="cat-subcat-wrap">
-                <span className="cat-subcat-label">
-                  {t.category.subcatLabel}
-                </span>
-                <div className="cat-subcat-pills">
+                <div className="cat-subcat-header">
+                  <span className="cat-subcat-label">
+                    {t.category.subcatLabel}
+                    <span className="cat-subcat-count">({category.subcategories.length})</span>
+                  </span>
+                  {category.subcategories.length > 6 && (
+                    <button
+                      type="button"
+                      onClick={() => setIsSubcatsExpanded(!isSubcatsExpanded)}
+                      className="cat-subcat-toggle-btn"
+                      aria-label={isSubcatsExpanded ? t.common.collapse : t.common.seeAll}
+                    >
+                      <span>{isSubcatsExpanded ? t.common.collapse : `${t.common.seeAll} (${category.subcategories.length})`}</span>
+                      <ChevronDown
+                        size={13}
+                        style={{
+                          transform: isSubcatsExpanded ? 'rotate(180deg)' : 'none',
+                          transition: 'transform 0.2s ease'
+                        }}
+                      />
+                    </button>
+                  )}
+                </div>
+                <div className={`cat-subcat-pills ${isSubcatsExpanded ? 'expanded' : ''}`}>
                   <Link
                     href={makeFilterUrl({ sub: 'all' })}
                     className={`cat-subcat-pill ${currentSubcat === 'all' ? 'active' : ''}`}

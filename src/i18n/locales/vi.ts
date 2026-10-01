@@ -1,6 +1,6 @@
 export const vi = {
   common: {
-    appName: 'LuyệnPhỏngVấn',
+    appName: 'Interview',
     tagline: '4.450+ Câu hỏi phỏng vấn có đáp án',
     questionsCount: '4.450+ Câu hỏi phỏng vấn chuẩn',
     loading: 'Đang tải...',
@@ -17,7 +17,9 @@ export const vi = {
     back: 'Quay lại',
     language: 'Ngôn ngữ',
     vi: 'Tiếng Việt',
-    en: 'English'
+    en: 'English',
+    seeAll: 'Xem tất cả',
+    collapse: 'Thu gọn'
   },
   nav: {
     home: 'Trang chủ',
