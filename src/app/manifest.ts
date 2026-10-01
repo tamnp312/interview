@@ -2,8 +2,8 @@ import type { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Luyện Phỏng Vấn IT — 4450+ Câu hỏi',
-    short_name: 'LuyệnPhỏngVấn',
+    name: 'Interview — 4450+ Câu hỏi',
+    short_name: 'Interview',
     description: 'Học và ôn tập 4450+ câu hỏi phỏng vấn IT mọi lúc mọi nơi kể cả khi không có mạng.',
     start_url: '/',
     id: '/',
