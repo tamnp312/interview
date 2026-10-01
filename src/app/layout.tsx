@@ -10,7 +10,7 @@ import { LanguageProvider } from '../i18n/LanguageContext';
 import HydrationErrorSuppressor from '../components/HydrationErrorSuppressor';
 
 export const metadata: Metadata = {
-  title: 'Interview — 4450+ Câu hỏi phỏng vấn có đáp án',
+  title: 'Interview',
   description: 'Tổng hợp hơn 4450+ câu hỏi phỏng vấn IT có đáp án song ngữ Việt - Anh từ cơ bản đến nâng cao. Frontend, Backend, DevOps, System Design, AI Engineering.',
   keywords: ['phỏng vấn IT', 'câu hỏi phỏng vấn', 'frontend interview', 'backend interview', 'react', 'nodejs', 'golang', 'system design'],
   manifest: '/manifest.webmanifest',
